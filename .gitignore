@@ -7,6 +7,6 @@ test-data/
 dist-test/
 
 # Documents sources volumineux (conservés hors du dépôt)
-*.pdf
-perles/
-nvx perles/
+/*.pdf
+/perles/
+/nvx perles/
