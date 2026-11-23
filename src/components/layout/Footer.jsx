@@ -2,10 +2,10 @@ import { Link } from 'react-router-dom';
 import Logo from './Logo.jsx';
 import { BeadRule } from '../ui.jsx';
 import { useStore } from '../../context/StoreContext.jsx';
-import { contactLink } from '../../services/checkout.js';
+import { shopPhones } from '../../services/checkout.js';
 import PaymentLogos from '../PaymentLogos.jsx';
-import WhatsAppIcon from '../WhatsAppIcon.jsx';
 import { socialLinks } from '../../lib/social.js';
+import { PhoneList, SocialList } from '../ContactLinks.jsx';
 
 export const LEGAL_LINKS = [
   { to: '/mentions-legales', label: 'Mentions légales' },
@@ -18,13 +18,10 @@ export const LEGAL_LINKS = [
 /** Catégories mises en avant dans le pied de page (hors styles de bayas, accessibles depuis la boutique). */
 const FOOTER_CATEGORIES = ['chaines', 'cuisse-cheville', 'parfums'];
 
-const tel = (n) => `tel:${n.replace(/\s/g, '')}`;
-
 export default function Footer() {
   const { settings, catalogue } = useStore();
   const { contact, shop } = settings;
-  const wa = contactLink(settings);
-  const phones = [contact.phoneDisplay, contact.phoneSecondary].filter(Boolean);
+  const phones = shopPhones(settings);
   const socials = socialLinks(contact);
   const collections = catalogue.collections.filter((c) => c.status === 'published');
   const categories = FOOTER_CATEGORIES.map((id) => catalogue.getCategory(id)).filter(Boolean);
@@ -62,22 +59,11 @@ export default function Footer() {
 
           <div className="site-footer__col site-footer__contact">
             <h2 className="site-footer__heading">Nous joindre</h2>
-            {wa || phones.length || contact.email || socials.length ? (
+            {phones.length || contact.email || socials.length ? (
               <>
-                {wa && (
-                  <a className="btn btn--small btn--whatsapp site-footer__wa" href={wa} target="_blank" rel="noopener noreferrer">
-                    <WhatsAppIcon size={18} /> Écrire sur WhatsApp
-                  </a>
-                )}
-                <ul>
-                  {phones.map((n) => <li key={n}><a href={tel(n)}>{n}</a></li>)}
-                  {contact.email && <li><a href={`mailto:${contact.email}`}>{contact.email}</a></li>}
-                </ul>
-                {socials.length > 0 && (
-                  <ul className="site-footer__social" aria-label="Réseaux sociaux">
-                    {socials.map((s) => <li key={s.id}><a href={s.href} target="_blank" rel="noopener noreferrer">{s.label}<span className="visually-hidden"> ({s.handle})</span></a></li>)}
-                  </ul>
-                )}
+                <PhoneList />
+                {contact.email && <p className="site-footer__email"><a href={`mailto:${contact.email}`}>{contact.email}</a></p>}
+                <SocialList className="site-footer__social" />
               </>
             ) : (
               <p className="site-footer__note">Nos coordonnées seront publiées très prochainement.</p>

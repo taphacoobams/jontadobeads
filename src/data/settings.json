@@ -1,5 +1,5 @@
 {
-  "_lisezmoi": "Réglages de la boutique. null = non renseigné : l'information n'est pas affichée. contact.whatsapp (format 221XXXXXXXXX, sans +) active la commande. contact.phoneSecondary : second numéro affiché (facultatif). legal.host : hébergeur, à renseigner à la mise en ligne.",
+  "_lisezmoi": "Réglages de la boutique. null = non renseigné : l'information n'est pas affichée. contact.whatsapp (format 221XXXXXXXXX, sans +) active la commande. contact.phoneSecondary : second numéro affiché (facultatif) ; phoneSecondaryWhatsapp : true s'il est aussi joignable sur WhatsApp. Les commandes partent vers contact.whatsapp. legal.host : hébergeur, à renseigner à la mise en ligne.",
   "shop": {
     "name": "Jontado Beads",
     "nameConfirmed": true,
@@ -10,6 +10,7 @@
     "whatsapp": "221785423479",
     "phoneDisplay": "+221 78 542 34 79",
     "phoneSecondary": "+221 70 873 25 06",
+    "phoneSecondaryWhatsapp": true,
     "email": null,
     "instagram": "jontadobeads__",
     "tiktok": "unejontado",

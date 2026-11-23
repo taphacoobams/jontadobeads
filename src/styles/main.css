@@ -290,7 +290,7 @@
 .about__photos img { aspect-ratio: 4 / 5; object-fit: cover; width: 100%; }
 .about__photos img:first-child { border-radius: var(--radius-arch); }
 .channels { display: grid; margin-top: var(--space-xl); border-top: 1px solid var(--color-line); }
-.channels li { display: grid; gap: 2px; padding: var(--space-md) 0; border-bottom: 1px solid var(--color-line); }
+.channels > li { display: grid; gap: 2px; padding: var(--space-md) 0; border-bottom: 1px solid var(--color-line); }
 .channels__label { font-size: var(--text-xs); letter-spacing: var(--tracking-caps); text-transform: uppercase; color: var(--color-muted); }
 .channels a { font-family: var(--font-display); font-size: 1.35rem; text-decoration: none; }
 .channels a:hover { color: var(--color-accent); }
@@ -334,12 +334,11 @@
 .site-footer__pitch { color: var(--color-on-dark-muted); font-size: var(--text-sm); max-width: 34ch; }
 .site-footer__brand .bead-rule { margin-block: var(--space-sm) 0; }
 .site-footer__heading { font-family: var(--font-body); font-size: var(--text-xs); font-weight: 500; letter-spacing: var(--tracking-caps); text-transform: uppercase; color: var(--laiton-light); margin-bottom: var(--space-md); }
-.site-footer__col > ul:not(.pay-logos) { display: grid; gap: 10px; font-size: var(--text-sm); }
+.site-footer__col > ul:not(.pay-logos):not(.social-list):not(.phone-list) { display: grid; gap: 10px; font-size: var(--text-sm); }
 .site-footer__contact { grid-column: 1 / -1; }
 @media (min-width: 48rem) { .site-footer__contact { grid-column: auto; } }
-.site-footer .site-footer__wa { gap: 8px; margin-bottom: var(--space-md); padding-inline: 16px; color: #fff; white-space: nowrap; text-transform: none; letter-spacing: 0.02em; font-size: var(--text-sm); }
-.site-footer .site-footer__wa:hover { color: #fff; text-decoration: none; }
-.site-footer__social { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: var(--space-md); font-size: var(--text-sm); }
+.site-footer__email { margin-top: var(--space-sm); font-size: var(--text-sm); }
+.site-footer__social { margin-top: var(--space-md); }
 .site-footer__note { font-size: var(--text-sm); color: var(--color-on-dark-muted); }
 .site-footer__legal { display: flex; flex-wrap: wrap; justify-content: space-between; gap: var(--space-md); margin-top: var(--space-2xl); padding-top: var(--space-lg); border-top: 1px solid rgb(244 234 226 / 0.16); font-size: var(--text-xs); color: var(--color-on-dark-muted); }
 .site-footer__legal ul { display: flex; flex-wrap: wrap; gap: 8px 20px; }
@@ -392,3 +391,28 @@ html.has-intro { overflow: hidden; }
 .post__sources a { color: var(--color-text-2); text-underline-offset: 0.2em; }
 .post__sources a:hover { color: var(--color-accent); }
 .post__sources a svg { display: inline-block; vertical-align: -1px; margin-left: 2px; }
+
+/* ============ Numéros (appeler / WhatsApp) et réseaux sociaux ============ */
+.phone-list { display: grid; gap: var(--space-sm); }
+.phone-list__item { display: grid; gap: 6px; }
+.phone-list__number { font-size: var(--text-sm); letter-spacing: 0.02em; }
+.phone-list__actions { display: flex; flex-wrap: wrap; gap: 6px; }
+.contact-action { display: inline-flex; align-items: center; gap: 6px; min-height: 32px; padding: 4px 12px; border: 1px solid currentColor; border-radius: 999px; font-size: var(--text-xs); letter-spacing: 0.04em; text-decoration: none; white-space: nowrap; transition: background var(--dur) var(--ease), color var(--dur) var(--ease), border-color var(--dur) var(--ease); }
+.contact-action:hover { background: var(--color-ink); border-color: var(--color-ink); color: var(--color-on-ink); text-decoration: none !important; }
+.contact-action--wa:hover { background: #075E54; border-color: #075E54; color: #fff !important; }
+.site-footer .contact-action { border-color: rgb(244 234 226 / 0.35); }
+.site-footer .contact-action:hover { background: var(--color-on-dark); border-color: var(--color-on-dark); color: var(--ebene); }
+.site-footer .contact-action--wa:hover { background: #075E54; border-color: #075E54; }
+.phone-list--large { gap: var(--space-md); margin-top: 4px; }
+.phone-list--large .phone-list__number { font-family: var(--font-display); font-size: 1.35rem; letter-spacing: 0; }
+.phone-list--large .contact-action { min-height: 40px; padding: 6px 16px; font-size: var(--text-sm); }
+.social-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.social-list__link { display: inline-grid; place-items: center; width: 40px; height: 40px; border: 1px solid currentColor; border-radius: 50%; text-decoration: none; transition: background var(--dur) var(--ease), color var(--dur) var(--ease), border-color var(--dur) var(--ease); }
+.site-footer .social-list__link { border-color: rgb(244 234 226 / 0.35); }
+.social-list__link:hover { background: var(--color-ink); border-color: var(--color-ink); color: var(--color-on-ink); }
+.site-footer .social-list__link:hover { background: var(--color-on-dark); border-color: var(--color-on-dark); color: var(--ebene); }
+.social-list--handles { display: grid; gap: var(--space-sm); margin-top: 4px; }
+.social-list--handles .social-list__link { display: inline-flex; width: auto; height: auto; gap: 10px; border: 0; border-radius: 0; font-family: var(--font-display); font-size: 1.2rem; }
+.social-list--handles .social-list__link:hover { background: none; color: var(--color-accent); }
+.social-list__name { font-family: var(--font-body); font-size: var(--text-xs); letter-spacing: var(--tracking-caps); text-transform: uppercase; color: var(--color-muted); margin-right: 4px; }
+.channels .contact-action { font-family: var(--font-body); }

@@ -1,8 +1,9 @@
 import { Link } from 'react-router-dom';
 import { Breadcrumbs, EmptyState, Eyebrow } from '../components/ui.jsx';
 import { useStore } from '../context/StoreContext.jsx';
-import { contactLink } from '../services/checkout.js';
+import { shopPhones } from '../services/checkout.js';
 import { socialLinks } from '../lib/social.js';
+import { PhoneList, SocialList } from '../components/ContactLinks.jsx';
 import usePageMeta from '../hooks/usePageMeta.js';
 
 function Page({ title, eyebrow, children, intro, id }) {
@@ -23,13 +24,12 @@ export function Contact() {
   const { settings } = useStore();
   usePageMeta('Contact', `Contacter ${settings.shop.name}.`);
   const { contact } = settings;
-  const wa = contactLink(settings);
+  const phones = shopPhones(settings);
+  const socials = socialLinks(contact);
   const channels = [
-    wa && { label: 'WhatsApp', value: contact.phoneDisplay ?? 'Écrire un message', href: wa, external: true },
-    contact.phoneDisplay && { label: 'Téléphone', value: contact.phoneDisplay, href: `tel:${contact.phoneDisplay.replace(/\s/g, '')}` },
-    contact.phoneSecondary && { label: 'Autre numéro', value: contact.phoneSecondary, href: `tel:${contact.phoneSecondary.replace(/\s/g, '')}` },
+    phones.length > 0 && { label: phones.some((p) => p.wa) ? 'Téléphone et WhatsApp' : 'Téléphone', node: <PhoneList className="phone-list--large" /> },
     contact.email && { label: 'E-mail', value: contact.email, href: `mailto:${contact.email}` },
-    ...socialLinks(contact).map((s) => ({ label: s.label, value: s.handle, href: s.href, external: true })),
+    socials.length > 0 && { label: 'Réseaux sociaux', node: <SocialList withHandle /> },
     contact.address && { label: 'Adresse', value: [contact.address, contact.city].filter(Boolean).join(', ') },
     contact.hours && { label: 'Horaires', value: contact.hours },
   ].filter(Boolean);
@@ -41,7 +41,7 @@ export function Contact() {
           {channels.map((ch) => (
             <li key={ch.label}>
               <span className="channels__label">{ch.label}</span>
-              {ch.href ? <a href={ch.href} {...(ch.external ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>{ch.value}</a> : <span>{ch.value}</span>}
+              {ch.node ?? (ch.href ? <a href={ch.href} {...(ch.external ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>{ch.value}</a> : <span>{ch.value}</span>)}
             </li>
           ))}
         </ul>

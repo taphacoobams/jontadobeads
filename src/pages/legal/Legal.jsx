@@ -6,7 +6,7 @@ import { Link, NavLink } from 'react-router-dom';
 import { LEGAL_LINKS } from '../../components/layout/Footer.jsx';
 import { useStore } from '../../context/StoreContext.jsx';
 import { formatDate } from '../../lib/format.js';
-import { contactLink } from '../../services/checkout.js';
+import { contactLink, shopPhones } from '../../services/checkout.js';
 import usePageMeta from '../../hooks/usePageMeta.js';
 
 function LegalPage({ title, description, children }) {
@@ -43,9 +43,7 @@ export function MentionsLegales() {
   const { name } = settings.shop;
   const c = settings.contact;
   const rows = [
-    c.phoneDisplay && ['Téléphone', <a key="tel" href={`tel:${c.phoneDisplay.replace(/\s/g, '')}`}>{c.phoneDisplay}</a>],
-    c.phoneSecondary && ['Autre numéro', <a key="tel2" href={`tel:${c.phoneSecondary.replace(/\s/g, '')}`}>{c.phoneSecondary}</a>],
-    contactLink(settings) && ['WhatsApp', <Reach key="wa" />],
+    ...shopPhones(settings).map((p, i) => [i ? 'Autre numéro' : 'Téléphone', <span key={p.display}><a href={p.tel}>{p.display}</a>{p.wa && <> · <a href={p.wa} target="_blank" rel="noopener noreferrer">WhatsApp</a></>}</span>]),
     c.email && ['E-mail', <a key="mail" href={`mailto:${c.email}`}>{c.email}</a>],
     (c.address || c.city) && ['Adresse', [c.address, c.city].filter(Boolean).join(', ')],
   ].filter(Boolean);

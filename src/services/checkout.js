@@ -16,6 +16,24 @@ export const waLink = (settings, text) => {
 export const contactLink = (settings) => waLink(settings, `Bonjour ${settings.shop.name}, je souhaite avoir des informations sur vos modèles.`);
 
 /**
+ * Numéros de la boutique, chacun avec son lien d'appel et, s'il est sur WhatsApp, son lien de discussion.
+ * @returns {{ display: string, tel: string, wa: string | null }[]}
+ */
+export function shopPhones(settings) {
+  const c = settings.contact;
+  const hello = `?text=${encodeURIComponent(`Bonjour ${settings.shop.name}, je souhaite avoir des informations sur vos modèles.`)}`;
+  const entry = (display, waDigits) => ({
+    display,
+    tel: `tel:+${waNumber(display)}`,
+    wa: waDigits && waNumber(waDigits).length >= 8 ? `https://wa.me/${waNumber(waDigits)}${hello}` : null,
+  });
+  return [
+    c.phoneDisplay && entry(c.phoneDisplay, c.whatsapp),
+    c.phoneSecondary && entry(c.phoneSecondary, c.phoneSecondaryWhatsapp ? c.phoneSecondary : null),
+  ].filter(Boolean);
+}
+
+/**
  * @param {{valid: Array, subtotal: number}} summary  récapitulatif du panier (lib/cart.js)
  * @param {{fullName, phone, city, district, address}} c
  * @param {string} paymentId 'wave' | 'orange-money'
