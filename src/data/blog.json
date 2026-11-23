@@ -1,0 +1,167 @@
+{
+  "_lisezmoi": "Articles du blog. body : blocs { type: 'p' | 'h2' | 'ul' | 'tip', text | items }. cover : identifiant d'une photo de photos.json. links : liens vers la boutique en fin d'article. sources : références consultées (affichées en bas de l'article). Textes rédigés pour Jontado Beads à partir des sources citées : à relire par la marque.",
+  "posts": [
+    {
+      "slug": "baya-bine-bine-bijou-de-taille-senegal",
+      "title": "Baya, bine-bine : le bijou de taille, un héritage sénégalais",
+      "excerpt": "Rangs de perles portés à la taille, les bayas accompagnent les femmes sénégalaises depuis l'enfance. Petit tour d'horizon d'un bijou intime, entre tradition, élégance et séduction.",
+      "date": "2026-11-23",
+      "readingTime": 5,
+      "tag": "Culture",
+      "cover": "baya-037-1",
+      "body": [
+        { "type": "p", "text": "Au Sénégal, on les appelle bayas, bine-bine ou encore fer en wolof : ce sont des rangs de perles enfilées que l'on porte autour de la taille, le plus souvent sous les vêtements. Discrets, colorés, parfois sonores, ils font partie des bijoux les plus personnels de la garde-robe féminine." },
+        { "type": "h2", "text": "Un bijou porté dès l'enfance" },
+        { "type": "p", "text": "La presse sénégalaise rappelle une coutume ancienne : nouer des perles autour des hanches des petites filles. On leur prête le rôle d'accompagner la silhouette en grandissant, mais aussi une dimension protectrice, pour éloigner le mauvais œil. Ces croyances varient d'une famille et d'une communauté à l'autre : elles racontent surtout l'attachement à un bijou transmis de mère en fille." },
+        { "type": "h2", "text": "Féminité, élégance et séduction" },
+        { "type": "p", "text": "À l'âge adulte, la baya devient un accessoire de féminité et de séduction. Elle s'inscrit dans tout un art de vivre, aux côtés du thiouraye (l'encens) et des tenues soignées, que les Sénégalaises cultivent avec raffinement. On parle aussi de dial-diali pour ces rangs qui roulent sur les hanches au rythme de la démarche. En 2000, une chanson intitulée « Bine Bine » rendait d'ailleurs hommage à cette sensualité qui sait rester élégante." },
+        { "type": "tip", "text": "Chez Jontado Beads, nous croyons que l'élégance n'a pas besoin de compromettre la pudeur : la baya se porte d'abord pour soi." },
+        { "type": "h2", "text": "Un bijou ouest-africain" },
+        { "type": "p", "text": "Les perles de taille ne sont pas propres au Sénégal : on les retrouve au Ghana, au Nigeria et dans une grande partie de l'Afrique de l'Ouest, où elles symbolisent selon les régions la beauté, la féminité, la fertilité ou le passage à l'âge adulte. Leur histoire est liée aux routes commerciales qui ont fait circuler les perles de verre à travers le continent." },
+        { "type": "h2", "text": "Aujourd'hui : un héritage vivant" },
+        { "type": "p", "text": "Les bayas d'aujourd'hui mêlent perles de verre facettées, rocailles, perles nacrées, perles tubes et breloques. Elles se superposent, s'assortissent en ensembles et se personnalisent avec un prénom. Loin d'être un simple accessoire, elles restent un héritage vivant, que chaque femme s'approprie à sa façon." }
+      ],
+      "links": [
+        { "to": "/boutique?collection=bine-bine", "label": "Voir les ensembles bine-bine" },
+        { "to": "/boutique?categorie=rocailles", "label": "Voir les rangs fins" }
+      ],
+      "sources": [
+        { "title": "Les bayas : tradition et modernité au cœur de la féminité africaine (Alwihda Info)", "url": "https://www.alwihdainfo.com/les-bayas-tradition-et-modernite-au-coeur-de-la-feminite-africaine/" },
+        { "title": "La séduction en art majeur (Au-Sénégal)", "url": "https://au-senegal.com/la-seduction-en-art-majeur,1577.html" },
+        { "title": "Le dial-diali ou l'art de séduire (Au-Sénégal)", "url": "https://au-senegal.com/le-dial-diali-ou-l-art-de-seduire,1061.html?lang=fr" },
+        { "title": "La séduction à la sénégalaise (Seneweb)", "url": "https://www.seneweb.com/fr/news/Societe/la-seduction-a-la-senegalaise_n_78005.html" },
+        { "title": "Waist beads (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Waist_beads" }
+      ]
+    },
+    {
+      "slug": "choisir-mesurer-porter-sa-baya",
+      "title": "Comment choisir, mesurer et porter sa baya",
+      "excerpt": "Où placer ses perles, comment prendre la bonne mesure, combien de rangs superposer : nos conseils pour une première baya confortable.",
+      "date": "2026-11-23",
+      "readingTime": 4,
+      "tag": "Conseils",
+      "cover": "baya-020-1",
+      "body": [
+        { "type": "p", "text": "Une baya bien ajustée se fait oublier. Trop serrée, elle marque la peau ; trop lâche, elle glisse. Voici quelques repères simples pour bien la choisir." },
+        { "type": "h2", "text": "1. Choisir l'emplacement" },
+        { "type": "p", "text": "La plupart des femmes portent leurs perles juste sous le nombril, à l'endroit où la taille est la plus fine, ou un peu plus bas, sur les hanches. Le bon emplacement est celui où vous vous sentez à l'aise, assise comme debout." },
+        { "type": "h2", "text": "2. Prendre la mesure" },
+        { "type": "ul", "items": [
+          "Utilisez un mètre ruban souple, directement sur la peau.",
+          "Tenez-vous debout, détendue, sans rentrer le ventre.",
+          "Le ruban doit être ajusté, ni lâche ni serré.",
+          "Mesurez deux fois pour être sûre, et notez le résultat en centimètres."
+        ] },
+        { "type": "tip", "text": "Pour une baya à nouer, prévoyez environ 8 à 12 cm de fil en plus de votre tour de taille : c'est la marge qui permet de faire le nœud confortablement." },
+        { "type": "h2", "text": "3. Nouer et ajuster" },
+        { "type": "p", "text": "Essayez la baya avant de faire le nœud définitif : les perles doivent se suivre sans espace, sinon le fil peut pincer la peau. Faites un nœud double bien serré. Si la baya est trop large, retirez quelques perles plutôt que de la porter lâche. Et pensez à ne pas tirer sur les rangs en vous habillant." },
+        { "type": "h2", "text": "4. Superposer" },
+        { "type": "p", "text": "Un rang seul est discret ; trois à cinq rangs créent un vrai effet. Mélangez les tailles de perles (rocailles fines et perles facettées), jouez sur deux ou trois couleurs, ou choisissez un ensemble déjà composé. Nos rangs fins sont vendus à l'unité pour composer votre propre superposition." },
+        { "type": "h2", "text": "5. Personnaliser" },
+        { "type": "p", "text": "Un prénom, une initiale, une breloque porte-bonheur : une baya personnalisée fait aussi un très beau cadeau. Indiquez simplement votre demande au moment de la commande sur WhatsApp." }
+      ],
+      "links": [
+        { "to": "/boutique?q=unité", "label": "Rangs vendus à l'unité" },
+        { "to": "/boutique?categorie=breloques", "label": "Bayas à breloques et personnalisées" }
+      ],
+      "sources": [
+        { "title": "How to Measure for Waistbeads (Medium)", "url": "https://medium.com/@latetrao/how-to-measure-for-waistbeads-f58c33a5a064" },
+        { "title": "How to Measure Yourself for Waistbeads (Royal Waistbeads)", "url": "https://royalwaistbeads.squarespace.com/measuring-yourself" },
+        { "title": "How to Tie and Make Your Own Waist Beads (Kouassi Kustoms)", "url": "https://www.kouassikustomske.com/blogs/news/how-to-make-waist-beads" }
+      ]
+    },
+    {
+      "slug": "thiouraye-encens-senegalais",
+      "title": "Le thiouraye, le parfum de la maison sénégalaise",
+      "excerpt": "Mélange d'encens et de résines, le thiouraye parfume les maisons et les tenues. D'où vient-il, comment l'utiliser et le conserver ?",
+      "date": "2026-11-23",
+      "readingTime": 4,
+      "tag": "Senteurs",
+      "cover": "parf-001-1",
+      "body": [
+        { "type": "p", "text": "Impossible d'évoquer l'art de vivre sénégalais sans parler du thiouraye. Ses volutes parfument les maisons, les boubous et les draps, et signent l'accueil d'un foyer." },
+        { "type": "h2", "text": "Un mélange de plantes et de résines" },
+        { "type": "p", "text": "À l'origine, le mot thiouraye désignait toutes sortes de mélanges odorants à base de plantes : gowé, gomme arabique, résines… Chaque vendeuse ou vendeur garde jalousement ses recettes, souvent transmises en famille. Son usage s'est renforcé avec l'arrivée de l'islam, et il a longtemps accompagné les moments importants de la vie : on l'utilisait pour protéger les nouveau-nés ou purifier une pièce." },
+        { "type": "h2", "text": "Du parfum d'intérieur à l'outil de séduction" },
+        { "type": "p", "text": "Le thiouraye était d'abord le signe d'une maison bien tenue. Ce n'est que plus récemment qu'il est devenu, aux yeux de beaucoup, un incontournable de la séduction. Pendant l'hivernage, d'autres encens comme le gowé ou le sarkhatane sont aussi brûlés pour assainir l'air et chasser l'odeur d'humidité." },
+        { "type": "h2", "text": "Comment l'utiliser" },
+        { "type": "ul", "items": [
+          "Déposez quelques morceaux sur un charbon incandescent, dans un encensoir (ou « andounou »).",
+          "Laissez la fumée parfumer la pièce, puis aérez légèrement.",
+          "Pour parfumer une tenue, suspendez-la quelques minutes au-dessus des volutes.",
+          "Un brûleur électrique permet de profiter du parfum sans fumée."
+        ] },
+        { "type": "tip", "text": "Conservez votre thiouraye dans un pot bien fermé, à l'abri de l'humidité : humide, il brûle mal et perd son parfum." },
+        { "type": "h2", "text": "Et le musc ?" },
+        { "type": "p", "text": "Le musc en flacon roll-on complète le thiouraye : quelques touches sur les poignets ou dans le cou suffisent. Évitez simplement de l'appliquer directement sur vos perles, pour préserver leur éclat." }
+      ],
+      "links": [
+        { "to": "/boutique?categorie=parfums", "label": "Voir le thiouraye et les muscs" }
+      ],
+      "sources": [
+        { "title": "Le thiouraye, un indétrônable de la culture sénégalaise (Au-Sénégal)", "url": "https://au-senegal.com/le-thiouraye-un-indetronable-de-la-culture-senegalaise,15792.html" },
+        { "title": "Le thiouraye, un produit de séduction qui résiste au temps (SenePlus)", "url": "https://seneplus.com/node/156644" },
+        { "title": "Thiouraye : quand l'encens répand effluves et mythes (Le Soleil)", "url": "https://lesoleil.sn/actualites/societe-fait-divers/thiouraye-quand-lencens-repand-effluves-et-mythes" },
+        { "title": "Hivernage au Sénégal : le gowé et le sarkhatane (Dakaractu)", "url": "https://www.dakaractu.com/Reportage-Hivernage-au-Senegal-le-Gowe-et-le-Sarkhatane--encens-traditionnels-pour-chasser-l-humidite_a264631.html" }
+      ]
+    },
+    {
+      "slug": "entretenir-perles-et-chaines",
+      "title": "Entretenir ses perles et ses chaînes de corps",
+      "excerpt": "Quelques gestes simples pour garder l'éclat de vos bayas, de vos chaînes en acier inoxydable et de vos bijoux de cheville.",
+      "date": "2026-11-23",
+      "readingTime": 3,
+      "tag": "Conseils",
+      "cover": "baya-010-1",
+      "body": [
+        { "type": "p", "text": "Bayas, chaînes de dos, bijoux de cuisse ou de cheville : ces bijoux se portent au contact de la peau, parfois jour et nuit. Un peu d'attention suffit à les garder beaux longtemps." },
+        { "type": "h2", "text": "Les perles" },
+        { "type": "ul", "items": [
+          "Mettez vos parfums, crèmes et huiles avant vos perles, et laissez-les pénétrer.",
+          "Évitez les produits ménagers et l'eau chlorée des piscines.",
+          "Après la plage, rincez rapidement les rangs à l'eau claire et laissez-les sécher à plat.",
+          "Les perles nacrées sont les plus fragiles : essuyez-les avec un chiffon doux."
+        ] },
+        { "type": "h2", "text": "Les chaînes en acier inoxydable" },
+        { "type": "p", "text": "L'acier inoxydable résiste bien à l'eau et ne noircit pas. Pour lui rendre son brillant, lavez-le à l'eau tiède savonneuse, rincez et séchez avec un chiffon doux. Évitez les produits abrasifs qui rayeraient la finition dorée." },
+        { "type": "h2", "text": "Ranger ses bijoux" },
+        { "type": "p", "text": "Rangez chaque baya à plat ou enroulée sans la serrer, à l'abri de l'humidité, et séparez les chaînes pour éviter qu'elles ne s'emmêlent. Un petit sachet en tissu par bijou est idéal, surtout en voyage." },
+        { "type": "tip", "text": "Un fil distendu ou un fermoir fatigué ? Contactez-nous sur WhatsApp : mieux vaut faire reprendre une baya que de la perdre." }
+      ],
+      "links": [
+        { "to": "/boutique?categorie=chaines", "label": "Voir les chaînes de corps" },
+        { "to": "/boutique?categorie=cuisse-cheville", "label": "Voir les bijoux de cuisse et de cheville" }
+      ],
+      "sources": [
+        { "title": "Comment entretenir des perles (58 Facettes)", "url": "https://58facettes.com/blogs/magazine/comment-entretenir-des-perles" }
+      ]
+    },
+    {
+      "slug": "ensembles-feer-composer-son-style",
+      "title": "Ensembles Féér : composer un style qui vous ressemble",
+      "excerpt": "Champagne, Sodaa, Bordeaux Royal… Nos ensembles Féér réunissent plusieurs rangs pensés pour être portés ensemble. Comment les choisir et les assortir.",
+      "date": "2026-11-23",
+      "readingTime": 3,
+      "tag": "Inspiration",
+      "cover": "baya-050-1",
+      "body": [
+        { "type": "p", "text": "« Ibadou biy diar féér » : chez Jontado Beads, le féér, c'est l'art de se parer avec soin. Nos ensembles Féér réunissent plusieurs rangs de perles composés pour se répondre : perles tubes, perles nacrées, cristal et détails dorés ou argentés." },
+        { "type": "h2", "text": "Choisir selon sa garde-robe" },
+        { "type": "ul", "items": [
+          "Tons clairs (Blanc Éclat, Sodaa, Champagne) : une élégance lumineuse, facile à porter avec tout.",
+          "Tons profonds (Bordeaux Royal, rouge passion, Nuit Champagne) : pour les grandes occasions et les tenues sombres.",
+          "Tons contrastés (Or et Forêt, Halimata, Soleil Noir) : pour affirmer son style."
+        ] },
+        { "type": "h2", "text": "Porter un ensemble" },
+        { "type": "p", "text": "Un ensemble se porte en entier pour un effet généreux, ou se partage : deux rangs un jour, trois le lendemain. Vous pouvez aussi glisser entre eux un rang fin assorti, ou une chaîne de taille pour un contraste de matières." },
+        { "type": "h2", "text": "Et les bine-bine ?" },
+        { "type": "p", "text": "Plus légers, nos ensembles bine-bine (Rose et Dorée, Harlette, Rose Nuit…) sont parfaits pour le quotidien. Ils se mélangent très bien aux ensembles Féér pour varier les plaisirs." }
+      ],
+      "links": [
+        { "to": "/boutique?collection=ensembles-feer", "label": "Découvrir les ensembles Féér" },
+        { "to": "/boutique?collection=bine-bine", "label": "Découvrir les ensembles bine-bine" }
+      ],
+      "sources": []
+    }
+  ]
+}

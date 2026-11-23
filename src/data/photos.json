@@ -1,0 +1,2061 @@
+{
+  "generatedAt": "2026-11-23",
+  "source": "Dossier « perles » (originaux non modifiés), dossier « nvx perles » et images extraites du PDF « Jontado Beads site »",
+  "photos": [
+    {
+      "id": "baya-001-1",
+      "file": "3d410d66-7520-46e6-b8f7-f21842299c99.JPG",
+      "width": 960,
+      "height": 1280,
+      "status": "valide",
+      "product": "BAYA-001",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-001-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-001-1-960.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-002-1",
+      "file": "42cdcf8f-4fd7-4536-8cea-52223ec8956e.JPG",
+      "width": 960,
+      "height": 1280,
+      "status": "valide",
+      "product": "BAYA-002",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-002-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-002-1-960.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-003-1",
+      "file": "7d82a51b-e7cd-4f6d-b75a-81cafb058bec.JPG",
+      "width": 960,
+      "height": 1280,
+      "status": "valide",
+      "product": "BAYA-003",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-003-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-003-1-960.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-004-1",
+      "file": "IMG_0532.JPG",
+      "width": 1200,
+      "height": 1200,
+      "status": "valide",
+      "product": "BAYA-004",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 480,
+          "src": "/images/perles/baya-004-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 960,
+          "src": "/images/perles/baya-004-1-960.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-005-1",
+      "file": "IMG_3135 2.heic",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-005",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-005-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-005-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-005-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-005-2",
+      "file": "IMG_3136 2.heic",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-005",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-005-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-005-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-005-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-006-1",
+      "file": "IMG_3140 2.heic",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-006",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-006-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-006-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-006-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-006-2",
+      "file": "IMG_3141 2.heic",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-006",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-006-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-006-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-006-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-007-1",
+      "file": "IMG_3190 2.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-007",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-007-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-007-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-007-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-008-1",
+      "file": "IMG_3246.heic",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-008",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-008-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-008-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-008-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-008-2",
+      "file": "IMG_3247.heic",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-008",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-008-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-008-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-008-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-008-3",
+      "file": "IMG_3251.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-008",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-008-3-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-008-3-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-008-3-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-009-1",
+      "file": "IMG_4316.JPG",
+      "width": 564,
+      "height": 889,
+      "status": "valide",
+      "product": "BAYA-009",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 480,
+          "h": 757,
+          "src": "/images/perles/baya-009-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-010-1",
+      "file": "IMG_4803.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-010",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-010-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-010-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-010-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-010-2",
+      "file": "IMG_4806.heic",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-010",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-010-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-010-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-010-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-011-1",
+      "file": "IMG_4831.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-011",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-011-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-011-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-011-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-011-2",
+      "file": "IMG_4832.heic",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-011",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-011-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-011-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-011-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-012-1",
+      "file": "IMG_5292.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-012",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-012-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-012-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-012-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-013-1",
+      "file": "IMG_5320.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-013",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-013-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-013-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-013-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-014-1",
+      "file": "IMG_5325.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-014",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-014-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-014-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-014-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-015-1",
+      "file": "IMG_5462.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-015",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-015-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-015-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-015-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-016-1",
+      "file": "IMG_5465.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-016",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-016-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-016-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-016-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-017-1",
+      "file": "IMG_5469.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-017",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-017-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-017-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-017-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-018-1",
+      "file": "IMG_5481.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-018",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-018-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-018-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-018-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-019-1",
+      "file": "IMG_5485.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-019",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-019-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-019-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-019-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-020-1",
+      "file": "IMG_5488.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-020",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-020-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-020-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-020-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-021-1",
+      "file": "IMG_5494.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-021",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-021-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-021-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-021-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-022-1",
+      "file": "IMG_5498.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-022",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-022-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-022-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-022-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-023-1",
+      "file": "IMG_5506.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-023",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-023-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-023-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-023-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-024-1",
+      "file": "IMG_5527.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-024",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-024-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-024-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-024-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-025-1",
+      "file": "IMG_6107.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-025",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-025-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-025-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-025-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-026-1",
+      "file": "IMG_6462.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-026",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-026-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-026-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-026-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-027-1",
+      "file": "IMG_6468.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-027",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-027-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-027-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-027-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-028-1",
+      "file": "IMG_6475.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-028",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-028-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-028-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-028-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-028-2",
+      "file": "IMG_6478.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-028",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-028-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-028-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-028-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-029-1",
+      "file": "IMG_6975.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-029",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-029-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-029-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-029-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-029-2",
+      "file": "IMG_6978.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-029",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-029-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-029-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-029-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-030-1",
+      "file": "IMG_7312.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-030",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-030-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-030-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-030-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-030-2",
+      "file": "IMG_7313.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-030",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-030-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-030-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-030-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-031-1",
+      "file": "IMG_7897.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-031",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-031-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-031-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-031-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-031-2",
+      "file": "IMG_7898.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-031",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-031-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-031-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-031-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-031-3",
+      "file": "IMG_7899.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-031",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-031-3-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-031-3-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-031-3-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-032-1",
+      "file": "IMG_7903.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-032",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-032-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-032-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-032-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-032-2",
+      "file": "IMG_7904.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-032",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-032-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-032-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-032-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-032-3",
+      "file": "IMG_7905.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-032",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-032-3-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-032-3-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-032-3-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-033-1",
+      "file": "IMG_8167.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-033",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-033-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-033-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-033-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-034-1",
+      "file": "IMG_8304.JPG",
+      "width": 1179,
+      "height": 1571,
+      "status": "valide",
+      "product": "BAYA-034",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-034-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1279,
+          "src": "/images/perles/baya-034-1-960.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-035-1",
+      "file": "IMG_8468.heic",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-035",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-035-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-035-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-035-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-035-2",
+      "file": "IMG_8469.heic",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-035",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-035-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-035-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-035-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-035-3",
+      "file": "IMG_8470.heic",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-035",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-035-3-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-035-3-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-035-3-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-036-1",
+      "file": "temp_image_4562DDF5-BB7A-4B45-B65F-72BCC86D1A43.WEBP",
+      "width": 1440,
+      "height": 1920,
+      "status": "valide",
+      "product": "BAYA-036",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-036-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-036-1-960.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-036-2",
+      "file": "temp_image_A67B5793-B3A0-4778-B306-0CA0F632CC32.WEBP",
+      "width": 1440,
+      "height": 1920,
+      "status": "valide",
+      "product": "BAYA-036",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-036-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-036-2-960.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-037-1",
+      "file": "🌼Nouvelle Collection Aguadi🌼Cette nouvelle collection de bine bine individuel est faite avec d (2) 2.JPG",
+      "width": 1080,
+      "height": 1350,
+      "status": "valide",
+      "product": "BAYA-037",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 600,
+          "src": "/images/perles/baya-037-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1200,
+          "src": "/images/perles/baya-037-1-960.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-038-1",
+      "file": "🌼Nouvelle Collection Aguadi🌼Cette nouvelle collection de bine bine individuel est faite avec d (3) 2.JPG",
+      "width": 1080,
+      "height": 1350,
+      "status": "valide",
+      "product": "BAYA-038",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 600,
+          "src": "/images/perles/baya-038-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1200,
+          "src": "/images/perles/baya-038-1-960.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-039-1",
+      "file": "🌼Nouvelle Collection Aguadi🌼Cette nouvelle collection de bine bine individuel est faite avec d 2.JPG",
+      "width": 1080,
+      "height": 1350,
+      "status": "valide",
+      "product": "BAYA-039",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 600,
+          "src": "/images/perles/baya-039-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1200,
+          "src": "/images/perles/baya-039-1-960.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-040-1",
+      "file": "PDF « Jontado Beads site » (p5-28.jpg)",
+      "width": 769,
+      "height": 1023,
+      "status": "valide",
+      "product": "BAYA-040",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 639,
+          "src": "/images/perles/baya-040-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-041-1",
+      "file": "PDF « Jontado Beads site » (p5-27.jpg)",
+      "width": 769,
+      "height": 1023,
+      "status": "valide",
+      "product": "BAYA-041",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 639,
+          "src": "/images/perles/baya-041-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-042-1",
+      "file": "PDF « Jontado Beads site » (p5-26.jpg)",
+      "width": 768,
+      "height": 1023,
+      "status": "valide",
+      "product": "BAYA-042",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 639,
+          "src": "/images/perles/baya-042-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-043-1",
+      "file": "PDF « Jontado Beads site » (p6-30.jpg)",
+      "width": 768,
+      "height": 980,
+      "status": "valide",
+      "product": "BAYA-043",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 480,
+          "h": 613,
+          "src": "/images/perles/baya-043-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-044-1",
+      "file": "PDF « Jontado Beads site » (p6-31.jpg)",
+      "width": 768,
+      "height": 1119,
+      "status": "valide",
+      "product": "BAYA-044",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 699,
+          "src": "/images/perles/baya-044-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-045-1",
+      "file": "PDF « Jontado Beads site » (p6-32.jpg)",
+      "width": 769,
+      "height": 990,
+      "status": "valide",
+      "product": "BAYA-045",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 480,
+          "h": 618,
+          "src": "/images/perles/baya-045-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-046-1",
+      "file": "nvx perles/IMG_9209.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-046",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-046-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-046-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-046-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-046-2",
+      "file": "nvx perles/IMG_9210.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-046",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-046-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-046-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-046-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-047-1",
+      "file": "nvx perles/IMG_9203.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-047",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-047-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-047-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-047-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-047-2",
+      "file": "nvx perles/IMG_9204.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-047",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-047-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-047-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-047-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-048-1",
+      "file": "nvx perles/IMG_9205.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-048",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-048-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-048-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-048-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-048-2",
+      "file": "nvx perles/IMG_9206.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-048",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-048-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-048-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-048-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-049-1",
+      "file": "nvx perles/IMG_9207.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-049",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-049-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-049-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-049-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-049-2",
+      "file": "nvx perles/IMG_9208.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-049",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-049-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-049-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-049-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-050-1",
+      "file": "nvx perles/IMG_9211.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-050",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-050-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-050-1-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-050-1-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-050-2",
+      "file": "nvx perles/IMG_9212.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-050",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-050-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-050-2-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-050-2-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-050-3",
+      "file": "nvx perles/IMG_9213.HEIC",
+      "width": 3024,
+      "height": 4032,
+      "status": "valide",
+      "product": "BAYA-050",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/baya-050-3-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/baya-050-3-960.webp"
+        },
+        {
+          "w": 1600,
+          "h": 2133,
+          "src": "/images/perles/baya-050-3-1600.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-051-1",
+      "file": "PDF « Jontado Beads site » (p8-44.jpg)",
+      "width": 769,
+      "height": 966,
+      "status": "valide",
+      "product": "BAYA-051",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 480,
+          "h": 603,
+          "src": "/images/perles/baya-051-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-052-1",
+      "file": "PDF « Jontado Beads site » (p8-43.jpg)",
+      "width": 769,
+      "height": 1023,
+      "status": "valide",
+      "product": "BAYA-052",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 639,
+          "src": "/images/perles/baya-052-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "chaine-001-1",
+      "file": "nvx perles/IMG_8336.JPG",
+      "width": 736,
+      "height": 897,
+      "status": "valide",
+      "product": "CHAINE-001",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 480,
+          "h": 585,
+          "src": "/images/perles/chaine-001-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "chaine-002-1",
+      "file": "nvx perles/_ (5).jpeg",
+      "width": 736,
+      "height": 981,
+      "status": "valide",
+      "product": "CHAINE-002",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/chaine-002-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "chaine-003-1",
+      "file": "nvx perles/_ (4).jpeg",
+      "width": 736,
+      "height": 981,
+      "status": "valide",
+      "product": "CHAINE-003",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/chaine-003-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "chaine-004-1",
+      "file": "nvx perles/_ (3).jpeg",
+      "width": 736,
+      "height": 981,
+      "status": "valide",
+      "product": "CHAINE-004",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/chaine-004-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "bijou-001-1",
+      "file": "nvx perles/Bijou de Cuisse Néfertari – Lapis Lazuli & Œil d'Horus 👑🧿 - 76 cm.jpeg",
+      "width": 736,
+      "height": 736,
+      "status": "valide",
+      "product": "BIJOU-001",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 480,
+          "h": 480,
+          "src": "/images/perles/bijou-001-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "bijou-002-1",
+      "file": "nvx perles/Gold tube anklet.jpeg",
+      "width": 736,
+      "height": 736,
+      "status": "valide",
+      "product": "BIJOU-002",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 480,
+          "h": 480,
+          "src": "/images/perles/bijou-002-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "bijou-003-1",
+      "file": "PDF « Jontado Beads site » (p2-07.jpg)",
+      "width": 837,
+      "height": 1116,
+      "status": "valide",
+      "product": "BIJOU-003",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/bijou-003-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "parf-001-1",
+      "file": "nvx perles/_ (2).jpeg",
+      "width": 736,
+      "height": 981,
+      "status": "valide",
+      "product": "PARF-001",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/parf-001-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "parf-001-2",
+      "file": "nvx perles/IMG_9231.JPG",
+      "width": 1024,
+      "height": 1024,
+      "status": "valide",
+      "product": "PARF-001",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 480,
+          "src": "/images/perles/parf-001-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 960,
+          "src": "/images/perles/parf-001-2-960.webp"
+        }
+      ]
+    },
+    {
+      "id": "parf-002-1",
+      "file": "nvx perles/#تصويري _.jpeg",
+      "width": 736,
+      "height": 960,
+      "status": "valide",
+      "product": "PARF-002",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 480,
+          "h": 626,
+          "src": "/images/perles/parf-002-1-480.webp"
+        }
+      ]
+    },
+    {
+      "id": "parf-002-2",
+      "file": "nvx perles/IMG_9230.JPG",
+      "width": 1200,
+      "height": 1600,
+      "status": "valide",
+      "product": "PARF-002",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 640,
+          "src": "/images/perles/parf-002-2-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1280,
+          "src": "/images/perles/parf-002-2-960.webp"
+        }
+      ]
+    }
+  ]
+}

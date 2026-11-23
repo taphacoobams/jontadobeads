@@ -1,0 +1,46 @@
+{
+  "_lisezmoi": "Réglages de la boutique. null = non renseigné : l'information n'est pas affichée. contact.whatsapp (format 221XXXXXXXXX, sans +) active la commande. contact.phoneSecondary : second numéro affiché (facultatif). legal.host : hébergeur, à renseigner à la mise en ligne.",
+  "shop": {
+    "name": "Jontado Beads",
+    "nameConfirmed": true,
+    "tagline": "Ibadou biy diar féér",
+    "url": null
+  },
+  "contact": {
+    "whatsapp": "221785423479",
+    "phoneDisplay": "+221 78 542 34 79",
+    "phoneSecondary": "+221 70 873 25 06",
+    "email": null,
+    "instagram": "jontadobeads__",
+    "tiktok": "unejontado",
+    "snapchat": "zahbie7",
+    "city": null,
+    "address": null,
+    "hours": null
+  },
+  "commerce": {
+    "currency": "XOF",
+    "currencyLabel": "FCFA",
+    "locale": "fr-SN",
+    "checkoutProvider": "whatsapp",
+    "showDrafts": true
+  },
+  "delivery": {
+    "text": "Précisez votre ville lors de la commande : nous vous indiquons les frais et les délais de livraison sur WhatsApp.",
+    "fees": null,
+    "feeLabel": "À confirmer sur WhatsApp"
+  },
+  "payment": {
+    "methods": [
+      "wave",
+      "orange-money"
+    ]
+  },
+  "returns": {
+    "policy": null
+  },
+  "legal": {
+    "host": null,
+    "updatedAt": "2026-11-22"
+  }
+}

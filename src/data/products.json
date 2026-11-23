@@ -1,0 +1,1865 @@
+{
+  "_lisezmoi": "Catalogue. Tous les modèles sont en brouillon (status: draft) : nom, prix, description et disponibilité restent à renseigner. Un modèle ne peut être acheté que s il est publié (status: published) avec un nom, un prix et une disponibilité. Style (category) et couleurs dominantes (colors) établis en observant les photos : à confirmer par la boutique.",
+  "products": [
+    {
+      "id": "BAYA-001",
+      "reference": "BAYA-001",
+      "slug": "baya-001",
+      "status": "published",
+      "name": "Orangina",
+      "category": "cristal",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": "Rangs orange et rouge orangé, perles facettées et rocailles dorées.",
+      "description": "Une baya lumineuse aux tons orangés : perles de verre facettées, petites perles rondes et rocailles dorées.\n\nÀ porter seule ou en superposition avec d'autres rangs.",
+      "price": 5000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-001-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Orange",
+        "Rouge"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs enroulés, dominante orange et rouge orangé, perles facettées et perles dorées, fond satin.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-002",
+      "reference": "BAYA-002",
+      "slug": "baya-002",
+      "status": "published",
+      "name": "Ensemble bine-bine rouge blanc et dorée",
+      "category": "nacrees",
+      "categoryConfirmed": false,
+      "collections": [
+        "bine-bine"
+      ],
+      "shortDescription": "Rangs rouges et blanc nacré, rehaussés de breloques dorées.",
+      "description": "Un ensemble de bine-bine qui marie perles rouges facettées, perles nacrées blanches et petites breloques dorées.\n\nLes rangs se portent ensemble ou séparément.",
+      "price": 7000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-002-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rouge",
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs enroulés rouge et blanc nacré, breloques dorées, fond satin rose.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-003",
+      "reference": "BAYA-003",
+      "slug": "baya-003",
+      "status": "published",
+      "name": "Ensemble bine-bine rose blanc Harlette",
+      "category": "nacrees",
+      "categoryConfirmed": false,
+      "collections": [
+        "bine-bine"
+      ],
+      "shortDescription": "Rangs fuchsia et blanc nacré, breloques coquillage et cauris.",
+      "description": "L'ensemble Harlette associe perles fuchsia facettées et perles nacrées blanches, ponctuées de breloques coquillage et cauris dorées.",
+      "price": 5000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-003-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rose",
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs fuchsia et blanc nacré, breloques coquillage et cauris, fond satin.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-004",
+      "reference": "BAYA-004",
+      "slug": "baya-004",
+      "status": "published",
+      "name": "Perles lumineuses",
+      "category": "tubes",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": "Rang vert et blanc, perles tubes et perles facettées. Prix à l'unité.",
+      "description": "Un rang graphique qui alterne perles tubes blanches et grappes de perles vertes facettées.\n\nPrix indiqué pour un rang.",
+      "price": 2000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-004-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Vert",
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs vert et blanc, perles tubes et facettées, fond satin. Format carré.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": "unit"
+    },
+    {
+      "id": "BAYA-005",
+      "reference": "BAYA-005",
+      "slug": "baya-005",
+      "status": "published",
+      "name": "Ensemble Féér Bordeaux Royal",
+      "category": "tubes",
+      "categoryConfirmed": false,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér bordeaux : perles tubes, perles nacrées et apprêts dorés.",
+      "description": "Un ensemble Féér aux tons bordeaux, composé de perles tubes, de perles nacrées et de détails dorés. Plusieurs rangs à superposer.",
+      "price": 15000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-005-1",
+        "baya-005-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Bordeaux"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs bordeaux, perles tubes, portés à la main.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-006",
+      "reference": "BAYA-006",
+      "slug": "baya-006",
+      "status": "published",
+      "name": "Ensemble Féér Or et Forêt",
+      "category": "tubes",
+      "categoryConfirmed": false,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér noir et doré : perles tubes sombres et perles ambrées.",
+      "description": "L'ensemble Or et Forêt associe de longues perles tubes sombres à des perles ambrées et dorées. Plusieurs rangs à superposer.",
+      "price": 15000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-006-1",
+        "baya-006-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Noir",
+        "Ambre"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs noir et ambre, perles tubes, portés à la main.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-007",
+      "reference": "BAYA-007",
+      "slug": "baya-007",
+      "status": "published",
+      "name": "Soleil de minuit",
+      "category": "rocailles",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": "Rangs noirs et ambre, rocailles et perles de verre.",
+      "description": "Des rangs de rocailles noires mêlées de perles de verre couleur ambre, pour un contraste chaleureux.",
+      "price": 5000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-007-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Noir",
+        "Ambre"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs enroulés noir et ambre, fond satin rose.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-008",
+      "reference": "BAYA-008",
+      "slug": "baya-008",
+      "status": "published",
+      "name": "Ensemble Féér Blanc Éclat",
+      "category": "tubes",
+      "categoryConfirmed": false,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér blanc : perles tubes, perles argentées et perles texturées.",
+      "description": "Un ensemble Féér tout en blanc : perles tubes, perles argentées à motifs et perles texturées, rehaussées de cristal. Plusieurs rangs à superposer.",
+      "price": 15000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-008-1",
+        "baya-008-2",
+        "baya-008-3"
+      ],
+      "variants": [],
+      "colors": [
+        "Blanc",
+        "Noir"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs blancs, perles tubes à motif pied-de-poule, portés à la main.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-009",
+      "reference": "BAYA-009",
+      "slug": "baya-009",
+      "status": "draft",
+      "name": null,
+      "category": "rocailles",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-009-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Orange",
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs orange et blanc, tenus à la main. Basse résolution (564 px) : à remplacer si possible.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-010",
+      "reference": "BAYA-010",
+      "slug": "baya-010",
+      "status": "published",
+      "name": "Ensemble Féér Champagne",
+      "category": "cristal",
+      "categoryConfirmed": false,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér blanc et champagne, perles rondes et facettées.",
+      "description": "L'ensemble Champagne réunit des perles blanches et des perles couleur champagne, rondes et facettées. Plusieurs rangs à superposer.",
+      "price": 15000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-010-1",
+        "baya-010-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Blanc",
+        "Ambre"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs crème et ambre, tenus à la main.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-011",
+      "reference": "BAYA-011",
+      "slug": "baya-011",
+      "status": "published",
+      "name": "Soleil Noir",
+      "category": "cristal",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": "Rangs jaune soleil et bleu nuit, perles rondes et facettées.",
+      "description": "Des rangs jaune soleil ponctués de perles bleu nuit et de cristal, pour un ensemble vif et contrasté.",
+      "price": 15000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-011-1",
+        "baya-011-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Jaune",
+        "Bleu"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs jaune et bleu nuit, tenus à la main.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-012",
+      "reference": "BAYA-012",
+      "slug": "baya-012",
+      "status": "draft",
+      "name": null,
+      "category": "nacrees",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-012-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rose",
+        "Blanc",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs rose, blanc nacré et doré, sur tissu rouge.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-013",
+      "reference": "BAYA-013",
+      "slug": "baya-013",
+      "status": "published",
+      "name": "Pink évasion",
+      "category": "cristal",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": "Rangs roses en perles de verre facettées.",
+      "description": "Une baya entièrement rose, en perles de verre facettées qui accrochent la lumière.",
+      "price": 6000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-013-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rose"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs roses facettés, tenus à la main.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-014",
+      "reference": "BAYA-014",
+      "slug": "baya-014",
+      "status": "published",
+      "name": "Dieyna",
+      "category": "cristal",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": "Rangs bleu clair en perles facettées et rocailles.",
+      "description": "Dieyna réunit des rangs bleu clair : perles facettées translucides et fines rocailles.",
+      "price": 5000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-014-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Bleu"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs bleus, tenus à la main.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-015",
+      "reference": "BAYA-015",
+      "slug": "baya-015",
+      "status": "published",
+      "name": "Rosée glamour",
+      "category": "nacrees",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": "Rangs fuchsia, perles nacrées blanches et cristal.",
+      "description": "Rosée glamour mêle perles fuchsia facettées, perles nacrées blanches et perles de cristal.",
+      "price": 5500,
+      "compareAtPrice": null,
+      "images": [
+        "baya-015-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rose",
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs rose et blanc nacré, tenus à la main, emballage de la marque visible.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-016",
+      "reference": "BAYA-016",
+      "slug": "baya-016",
+      "status": "draft",
+      "name": null,
+      "category": "nacrees",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-016-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rose",
+        "Blanc",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs enroulés rose, nacré et doré, sur papier de la marque.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-017",
+      "reference": "BAYA-017",
+      "slug": "baya-017",
+      "status": "draft",
+      "name": null,
+      "category": "cristal",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-017-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Violet"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs violets, tenus à la main.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-018",
+      "reference": "BAYA-018",
+      "slug": "baya-018",
+      "status": "draft",
+      "name": null,
+      "category": "cristal",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-018-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rouge",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs enroulés rouges irisés, perles tubes dorées.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-019",
+      "reference": "BAYA-019",
+      "slug": "baya-019",
+      "status": "draft",
+      "name": null,
+      "category": "cristal",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-019-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Bleu"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs enroulés turquoise, perles craquelées.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-020",
+      "reference": "BAYA-020",
+      "slug": "baya-020",
+      "status": "published",
+      "name": "Ensemble bine-bine Rose et Dorée",
+      "category": "rocailles",
+      "categoryConfirmed": false,
+      "collections": [
+        "bine-bine"
+      ],
+      "shortDescription": "Rangs rose poudré et dorés en rocailles.",
+      "description": "Un ensemble de bine-bine en rocailles rose poudré et dorées, à porter ensemble ou séparément.",
+      "price": 5000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-020-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rose",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs enroulés rose poudré et doré.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-021",
+      "reference": "BAYA-021",
+      "slug": "baya-021",
+      "status": "draft",
+      "name": null,
+      "category": "cristal",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-021-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Violet"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs enroulés violets irisés, perle centrale transparente.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-022",
+      "reference": "BAYA-022",
+      "slug": "baya-022",
+      "status": "draft",
+      "name": null,
+      "category": "rocailles",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-022-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Bleu"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs enroulés bleu turquoise.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-023",
+      "reference": "BAYA-023",
+      "slug": "baya-023",
+      "status": "draft",
+      "name": null,
+      "category": "rocailles",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-023-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs enroulés doré et crème.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-024",
+      "reference": "BAYA-024",
+      "slug": "baya-024",
+      "status": "draft",
+      "name": null,
+      "category": "cristal",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-024-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Violet",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs violets, perles tubes dorées.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-025",
+      "reference": "BAYA-025",
+      "slug": "baya-025",
+      "status": "published",
+      "name": "Perle personnalisée",
+      "category": "breloques",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": "Baya personnalisée avec lettres et breloques, à partir de 5 000 FCFA.",
+      "description": "Une baya composée selon vos envies : perles lettres pour un prénom ou un mot, breloques au choix.\n\nLe prix final dépend de la composition : précisez votre demande lors de la commande.",
+      "price": 5000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-025-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Bleu"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs enroulés turquoise, perles lettres et breloque dorée.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": "from"
+    },
+    {
+      "id": "BAYA-026",
+      "reference": "BAYA-026",
+      "slug": "baya-026",
+      "status": "draft",
+      "name": null,
+      "category": "breloques",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-026-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rouge"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs rouges facettés, breloques dorées dont un cœur.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-027",
+      "reference": "BAYA-027",
+      "slug": "baya-027",
+      "status": "published",
+      "name": "Candy kiss",
+      "category": "cristal",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": "Rangs rouges en perles facettées, perles tubes dorées et perles ambrées.",
+      "description": "Ce modèle Candy kiss réunit des perles rouges facettées, des perles tubes dorées et quelques perles ambrées.",
+      "price": 5500,
+      "compareAtPrice": null,
+      "images": [
+        "baya-027-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rouge",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs enroulés rouges, perles tubes dorées.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-028",
+      "reference": "BAYA-028",
+      "slug": "baya-028",
+      "status": "published",
+      "name": "Candy kiss",
+      "category": "rocailles",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": "Rangs marron et rose pâle, avec chaîne dorée.",
+      "description": "Ce modèle Candy kiss associe perles marron et rose pâle, terminées par une chaîne dorée.",
+      "price": 5500,
+      "compareAtPrice": null,
+      "images": [
+        "baya-028-1",
+        "baya-028-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Bordeaux",
+        "Rose"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs bordeaux et rose, chaînette dorée. Regroupement avec la photo suivante à confirmer.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-029",
+      "reference": "BAYA-029",
+      "slug": "baya-029",
+      "status": "published",
+      "name": "Ensemble Féér Halimata",
+      "category": "fantaisie",
+      "categoryConfirmed": false,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér blanc et jaune, perles mouchetées et perles de cristal.",
+      "description": "L'ensemble Halimata associe perles blanches mouchetées, perles jaunes et perles de cristal. Plusieurs rangs à superposer.",
+      "price": 15000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-029-1",
+        "baya-029-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Blanc",
+        "Jaune"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs blanc, gris et jaune, tenus à la main.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-030",
+      "reference": "BAYA-030",
+      "slug": "baya-030",
+      "status": "published",
+      "name": "Ensemble Féér et pierre précieuse",
+      "category": "tubes",
+      "categoryConfirmed": false,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér blanc et argenté, orné d'éclats de pierres colorées.",
+      "description": "Un ensemble Féér en perles blanches et perles tubes argentées, orné d'éclats de pierres colorées. Plusieurs rangs à superposer.",
+      "price": 15000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-030-1",
+        "baya-030-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Blanc",
+        "Multicolore"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs blancs, perles fantaisie, pierres multicolores et tubes argentés (gros plan).",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-031",
+      "reference": "BAYA-031",
+      "slug": "baya-031",
+      "status": "draft",
+      "name": null,
+      "category": "breloques",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-031-1",
+        "baya-031-2",
+        "baya-031-3"
+      ],
+      "variants": [],
+      "colors": [
+        "Orange"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs orange fins, breloques lettres et cœurs.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-032",
+      "reference": "BAYA-032",
+      "slug": "baya-032",
+      "status": "published",
+      "name": "Ensemble Féér SallaElBachir",
+      "category": "tubes",
+      "categoryConfirmed": false,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér blanc et bordeaux, perles tubes argentées.",
+      "description": "L'ensemble SallaElBachir mêle perles blanches, perles bordeaux et perles tubes argentées. Plusieurs rangs à superposer.",
+      "price": 15000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-032-1",
+        "baya-032-2",
+        "baya-032-3"
+      ],
+      "variants": [],
+      "colors": [
+        "Blanc",
+        "Bordeaux"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs blanc et bordeaux, tubes argentés, tenus à la main.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-033",
+      "reference": "BAYA-033",
+      "slug": "baya-033",
+      "status": "draft",
+      "name": null,
+      "category": "fantaisie",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-033-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rose",
+        "Bleu"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs fuchsia et bleu pâle, perles papillons.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-034",
+      "reference": "BAYA-034",
+      "slug": "baya-034",
+      "status": "draft",
+      "name": null,
+      "category": "cristal",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": null,
+      "description": null,
+      "price": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-034-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Pêche"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs pêche cristal facettés, gros plan.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "BAYA-035",
+      "reference": "BAYA-035",
+      "slug": "baya-035",
+      "status": "published",
+      "name": "Cristal Rouge (Rokhaya)",
+      "category": "rocailles",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": "Rangs fins rouges ponctués de perles de cristal.",
+      "description": "Rokhaya : de fins rangs rouges ponctués de perles de cristal translucides.",
+      "price": 6000,
+      "compareAtPrice": null,
+      "images": [
+        "baya-035-1",
+        "baya-035-2",
+        "baya-035-3"
+      ],
+      "variants": [],
+      "colors": [
+        "Rouge"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs rouges fins, perles claires intercalées, tenus à la main.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-036",
+      "reference": "BAYA-036",
+      "slug": "baya-036",
+      "status": "published",
+      "name": "Ensemble Rose blanc",
+      "category": "breloques",
+      "categoryConfirmed": false,
+      "collections": [],
+      "shortDescription": "Rangs rose poudré et blancs, breloque étoile dorée.",
+      "description": "Un ensemble en rocailles rose poudré et blanches, perles dorées et breloque étoile.",
+      "price": 5500,
+      "compareAtPrice": null,
+      "images": [
+        "baya-036-1",
+        "baya-036-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Rose",
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs rose et blanc, breloques étoile. Fichier HEIC malgré l'extension .WEBP.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": null
+    },
+    {
+      "id": "BAYA-037",
+      "reference": "BAYA-037",
+      "slug": "baya-037",
+      "status": "published",
+      "name": "Candy kiss",
+      "category": "rocailles",
+      "categoryConfirmed": false,
+      "collections": [
+        "aguadi"
+      ],
+      "shortDescription": "Rang fin multicolore à dominante verte. Prix à l'unité.",
+      "description": "Un rang fin en perles heishi multicolores et perles de cristal, à dominante verte.\n\nPrix indiqué pour un rang : superposez plusieurs coloris.",
+      "price": 2500,
+      "compareAtPrice": null,
+      "images": [
+        "baya-037-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Vert",
+        "Multicolore"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs fins multicolores à dominante verte, perles disques, sur sable. Le nom de fichier mentionne une « Nouvelle Collection Aguadi » (à confirmer).",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": "unit"
+    },
+    {
+      "id": "BAYA-038",
+      "reference": "BAYA-038",
+      "slug": "baya-038",
+      "status": "published",
+      "name": "Bleu désir",
+      "category": "rocailles",
+      "categoryConfirmed": false,
+      "collections": [
+        "aguadi"
+      ],
+      "shortDescription": "Rang fin dans les tons bleus. Prix à l'unité.",
+      "description": "Un rang fin en perles heishi bleues et perles de cristal.\n\nPrix indiqué pour un rang : superposez plusieurs coloris.",
+      "price": 2500,
+      "compareAtPrice": null,
+      "images": [
+        "baya-038-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Bleu",
+        "Multicolore"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs fins à dominante bleue, perles disques, sur sable. Collection « Aguadi » (à confirmer).",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": "unit"
+    },
+    {
+      "id": "BAYA-039",
+      "reference": "BAYA-039",
+      "slug": "baya-039",
+      "status": "published",
+      "name": "Douceur rosée",
+      "category": "rocailles",
+      "categoryConfirmed": false,
+      "collections": [
+        "aguadi"
+      ],
+      "shortDescription": "Rang fin pastel à dominante rose. Prix à l'unité.",
+      "description": "Un rang fin en perles heishi pastel et perles de cristal, à dominante rose.\n\nPrix indiqué pour un rang : superposez plusieurs coloris.",
+      "price": 2500,
+      "compareAtPrice": null,
+      "images": [
+        "baya-039-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rose",
+        "Multicolore"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Rangs fins à dominante rose et orangée, perles disques, sur sable. Collection « Aguadi » (à confirmer).",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-23",
+      "priceLabel": "unit"
+    },
+    {
+      "id": "BAYA-040",
+      "reference": "BAYA-040",
+      "slug": "baya-040",
+      "status": "published",
+      "name": "Sunugal Sunset",
+      "category": "cristal",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs orange et rouges, grosses perles rondes et perles facettées.",
+      "description": "Sunugal Sunset réunit des rangs orange et rouges, ponctués de grosses perles rondes.",
+      "price": 5000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-040-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Orange",
+        "Rouge"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-041",
+      "reference": "BAYA-041",
+      "slug": "baya-041",
+      "status": "published",
+      "name": "Red Desire",
+      "category": "cristal",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs rouges et bordeaux, grosses perles rondes.",
+      "description": "Red Desire associe fines perles rouges et grosses perles bordeaux.",
+      "price": 5000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-041-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rouge",
+        "Bordeaux"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-042",
+      "reference": "BAYA-042",
+      "slug": "baya-042",
+      "status": "published",
+      "name": "Pure paradise",
+      "category": "nacrees",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs blancs, perles nacrées et boules texturées.",
+      "description": "Pure paradise : des rangs blancs en perles nacrées, boules texturées et détails dorés.",
+      "price": 5000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-042-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Blanc",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-043",
+      "reference": "BAYA-043",
+      "slug": "baya-043",
+      "status": "published",
+      "name": "Ensemble bine-bine Sunugal Sunset",
+      "category": "rocailles",
+      "categoryConfirmed": true,
+      "collections": [
+        "bine-bine"
+      ],
+      "shortDescription": "Rangs vert anis en rocailles, perles ambrées.",
+      "description": "Un ensemble de bine-bine en rocailles vert anis, ponctué de perles facettées ambrées.",
+      "price": 5000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-043-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Vert",
+        "Ambre"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-044",
+      "reference": "BAYA-044",
+      "slug": "baya-044",
+      "status": "published",
+      "name": "Ensemble bine-bine rouge dorée",
+      "category": "cristal",
+      "categoryConfirmed": true,
+      "collections": [
+        "bine-bine"
+      ],
+      "shortDescription": "Rangs rouges, perles irisées et perles dorées.",
+      "description": "Un ensemble de bine-bine rouge : perles irisées, perles dorées et perles ambrées.",
+      "price": 5000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-044-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rouge",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-045",
+      "reference": "BAYA-045",
+      "slug": "baya-045",
+      "status": "published",
+      "name": "Athéna",
+      "category": "rocailles",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs fins blancs rehaussés de doré.",
+      "description": "Athéna : de nombreux rangs fins blancs rehaussés de perles dorées.",
+      "price": 5000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-045-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Blanc",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-046",
+      "reference": "BAYA-046",
+      "slug": "baya-046",
+      "status": "published",
+      "name": "Ensemble bine-bine Rose Nuit",
+      "category": "cristal",
+      "categoryConfirmed": true,
+      "collections": [
+        "bine-bine"
+      ],
+      "shortDescription": "Rangs rose marbré et noirs, perles de cristal.",
+      "description": "L'ensemble Rose Nuit associe perles rose marbré, perles noires facettées et perles de cristal.",
+      "price": 9000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-046-1",
+        "baya-046-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Rose",
+        "Noir"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-047",
+      "reference": "BAYA-047",
+      "slug": "baya-047",
+      "status": "published",
+      "name": "Ensemble Féér Nuit Champagne",
+      "category": "cristal",
+      "categoryConfirmed": true,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér noir et champagne, perles facettées et pampille.",
+      "description": "L'ensemble Nuit Champagne réunit perles noires facettées et perles tubes couleur champagne, avec une pampille noire. Plusieurs rangs à superposer.",
+      "price": 12000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-047-1",
+        "baya-047-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Noir",
+        "Ambre"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-048",
+      "reference": "BAYA-048",
+      "slug": "baya-048",
+      "status": "published",
+      "name": "Ensemble Féér rouge passion",
+      "category": "tubes",
+      "categoryConfirmed": true,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér bordeaux et blanc, perles tubes et perles rondes.",
+      "description": "L'ensemble rouge passion mêle perles tubes blanches, perles rondes bordeaux et perles de cristal. Plusieurs rangs à superposer.",
+      "price": 12000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-048-1",
+        "baya-048-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Bordeaux",
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-049",
+      "reference": "BAYA-049",
+      "slug": "baya-049",
+      "status": "published",
+      "name": "Ensemble Féér Blanc Éclat",
+      "category": "tubes",
+      "categoryConfirmed": true,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér blanc et argenté, perles tubes et perles de cristal.",
+      "description": "Cette version de Blanc Éclat associe perles blanches, perles tubes argentées et perles de cristal. Plusieurs rangs à superposer.",
+      "price": 12000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-049-1",
+        "baya-049-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-050",
+      "reference": "BAYA-050",
+      "slug": "baya-050",
+      "status": "published",
+      "name": "Ensemble Féér Sodaa",
+      "category": "nacrees",
+      "categoryConfirmed": true,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér blanc nacré et champagne, perles tubes argentées.",
+      "description": "L'ensemble Sodaa réunit perles nacrées blanches, perles champagne et perles tubes argentées. Plusieurs rangs à superposer.",
+      "price": 12000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-050-1",
+        "baya-050-2",
+        "baya-050-3"
+      ],
+      "variants": [],
+      "colors": [
+        "Blanc",
+        "Pêche"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-051",
+      "reference": "BAYA-051",
+      "slug": "baya-051",
+      "status": "published",
+      "name": "Ensemble Féér Koundoulesse",
+      "category": "cristal",
+      "categoryConfirmed": true,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér turquoise, perles facettées et perles bleu roi.",
+      "description": "L'ensemble Koundoulesse associe perles turquoise facettées, perles bleu roi et perles de cristal. Plusieurs rangs à superposer.",
+      "price": 12500,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-051-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Bleu",
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-052",
+      "reference": "BAYA-052",
+      "slug": "baya-052",
+      "status": "published",
+      "name": "Ensemble Féér",
+      "category": "cristal",
+      "categoryConfirmed": true,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble rouge et blanc, perles rondes et perles facettées.",
+      "description": "Un ensemble Féér qui alterne perles rouges et perles blanches. Plusieurs rangs à superposer.",
+      "price": 5500,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-052-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rouge",
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "CHAINE-001",
+      "reference": "CHAINE-001",
+      "slug": "chaine-001",
+      "status": "published",
+      "name": "Chaîne de dos Aurore",
+      "category": "chaines",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Chaîne de dos en acier inoxydable, finition dorée.",
+      "description": "Une chaîne de dos fine en acier inoxydable, qui descend le long de la colonne et se termine par un pendentif.\n\nÀ porter avec un dos nu.",
+      "price": 5000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "chaine-001-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "CHAINE-002",
+      "reference": "CHAINE-002",
+      "slug": "chaine-002",
+      "status": "draft",
+      "name": "Chaîne de dos Jontado",
+      "category": "chaines",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Chaîne de dos et de taille en acier inoxydable, finition dorée.",
+      "description": "Une chaîne de dos en acier inoxydable ponctuée de petites perles, reliée à une chaîne de taille avec pendentif goutte.",
+      "price": null,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "chaine-002-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": null,
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ». Prix absent du PDF : à renseigner.",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "CHAINE-003",
+      "reference": "CHAINE-003",
+      "slug": "chaine-003",
+      "status": "published",
+      "name": "Chaîne de cuisse",
+      "category": "chaines",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Chaîne de cuisse en acier inoxydable, finition dorée.",
+      "description": "Une chaîne de cuisse fine en acier inoxydable, avec une chaînette verticale et un petit pendentif.",
+      "price": 4000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "chaine-003-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "CHAINE-004",
+      "reference": "CHAINE-004",
+      "slug": "chaine-004",
+      "status": "published",
+      "name": "Chaîne de cheville",
+      "category": "chaines",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Chaînes de cheville en acier inoxydable, finition dorée.",
+      "description": "Des chaînes de cheville fines en acier inoxydable, à porter seules ou superposées.",
+      "price": 6000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "chaine-004-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BIJOU-001",
+      "reference": "BIJOU-001",
+      "slug": "bijou-001",
+      "status": "published",
+      "name": "Perles de cuisse",
+      "category": "cuisse-cheville",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rang de cuisse bleu avec breloque œil.",
+      "description": "Un rang de perles bleues à porter autour de la cuisse, orné d'une breloque œil.",
+      "price": 2500,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "bijou-001-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Bleu"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BIJOU-002",
+      "reference": "BIJOU-002",
+      "slug": "bijou-002",
+      "status": "published",
+      "name": "Perles de cheville",
+      "category": "cuisse-cheville",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs de cheville en perles tubes dorées.",
+      "description": "Des rangs de cheville en fines perles tubes dorées, à superposer.",
+      "price": 2500,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "bijou-002-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BIJOU-003",
+      "reference": "BIJOU-003",
+      "slug": "bijou-003",
+      "status": "published",
+      "name": "Perles de cheville",
+      "category": "cuisse-cheville",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs de cheville bleus et dorés, perles facettées.",
+      "description": "Des rangs de cheville en perles facettées bleues, bleu nuit et dorées, à superposer.",
+      "price": 2500,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "bijou-003-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Bleu",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "PARF-001",
+      "reference": "PARF-001",
+      "slug": "parf-001",
+      "status": "published",
+      "name": "Pot Tiouraye",
+      "category": "parfums",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Pot de tiouraye, encens à brûler.",
+      "description": "Un pot de tiouraye, l'encens traditionnel qui parfume la maison et les vêtements.",
+      "price": 5000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "parf-001-1",
+        "parf-001-2"
+      ],
+      "variants": [],
+      "colors": [],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "PARF-002",
+      "reference": "PARF-002",
+      "slug": "parf-002",
+      "status": "published",
+      "name": "Musc intime",
+      "category": "parfums",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Musc en flacon roll-on, plusieurs senteurs. Prix à l'unité.",
+      "description": "Un musc en petit flacon, proposé en plusieurs senteurs.\n\nPrix indiqué pour un flacon : précisez la senteur souhaitée lors de la commande.",
+      "price": 2500,
+      "priceLabel": "unit",
+      "compareAtPrice": null,
+      "images": [
+        "parf-002-1",
+        "parf-002-2"
+      ],
+      "variants": [],
+      "colors": [],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    }
+  ]
+}

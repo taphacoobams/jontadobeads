@@ -1,0 +1,68 @@
+{
+  "_lisezmoi": "Catégories de la boutique : six styles de bayas (établis en observant les photos), puis chaînes, bijoux de cuisse et de cheville, senteurs (d'après le PDF « Jontado Beads site »). L'ordre du tableau est l'ordre d'affichage.",
+  "categories": [
+    {
+      "id": "cristal",
+      "label": "Cristal & facettes",
+      "singular": "Cristal & facettes",
+      "intro": "Perles de verre facettées ou irisées qui accrochent la lumière.",
+      "cover": "baya-034-1"
+    },
+    {
+      "id": "rocailles",
+      "label": "Rocailles & rangs fins",
+      "singular": "Rocailles & rangs fins",
+      "intro": "Petites perles de rocaille et rangs fins, à porter seuls ou superposés.",
+      "cover": "baya-022-1"
+    },
+    {
+      "id": "tubes",
+      "label": "Perles tubes",
+      "singular": "Perles tubes",
+      "intro": "Perles tubulaires qui dessinent des rangs graphiques.",
+      "cover": "baya-004-1"
+    },
+    {
+      "id": "nacrees",
+      "label": "Perles nacrées",
+      "singular": "Perles nacrées",
+      "intro": "Rangs où dominent les perles nacrées, souvent mêlées de couleur.",
+      "cover": "baya-012-1"
+    },
+    {
+      "id": "breloques",
+      "label": "À breloques",
+      "singular": "À breloques",
+      "intro": "Rangs ornés de breloques : lettres, cœurs, étoiles.",
+      "cover": "baya-031-2"
+    },
+    {
+      "id": "fantaisie",
+      "label": "Fantaisie",
+      "singular": "Fantaisie",
+      "intro": "Perles à motifs et formes originales : mouchetées, papillons.",
+      "cover": "baya-033-1"
+    },
+    {
+      "id": "chaines",
+      "label": "Chaînes de corps",
+      "singular": "Chaîne de corps",
+      "intro": "Chaînes de dos, de cuisse et de cheville en acier inoxydable.",
+      "cover": "chaine-001-1"
+    },
+    {
+      "id": "cuisse-cheville",
+      "label": "Cuisse & cheville",
+      "singular": "Cuisse & cheville",
+      "intro": "Rangs de perles à porter à la cuisse ou à la cheville.",
+      "cover": "bijou-001-1"
+    },
+    {
+      "id": "parfums",
+      "label": "Senteurs",
+      "singular": "Senteur",
+      "intro": "Tiouraye et muscs pour parfumer la maison et soi-même.",
+      "cover": "parf-002-1"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "_lisezmoi": "Textes éditoriaux. Ils ne contiennent aucune information commerciale (prix, délais, matières, promesses). validated: false = texte proposé, à relire par la marque.",
+  "validated": false,
+  "home": {
+    "hero": {
+      "eyebrow": "Ibadou biy diar féér",
+      "title": "Des perles qui se portent au plus près de soi.",
+      "lede": "Des traditionnelles perles de taille aux chaînes de corps et aux senteurs, chaque création est une invitation à célébrer son style et son authenticité.",
+      "photos": [
+        "baya-050-1",
+        "baya-034-1",
+        "baya-047-1"
+      ]
+    },
+    "universe": {
+      "eyebrow": "La marque",
+      "title": "Jontado Beads",
+      "text": "Jontado Beads est une marque sénégalaise spécialisée dans la création artisanale de bijoux et d'accessoires. Inspirée par la beauté, la créativité et l'élégance, la marque propose des pièces uniques confectionnées avec soin pour permettre à chaque femme d'exprimer sa personnalité. Chez Jontado Beads, nous croyons que chaque détail compte et que l'élégance n'a pas besoin de compromettre la pudeur.",
+      "photo": "baya-012-1"
+    },
+    "craft": {
+      "eyebrow": "Le détail",
+      "title": "Chaque rang a son caractère",
+      "text": "Perles facettées, nacrées ou craquelées, perles tubes, breloques : chaque modèle est présenté tel qu'il est, sous plusieurs angles quand c'est possible.",
+      "photos": [
+        "baya-030-1",
+        "baya-031-2",
+        "baya-025-1"
+      ]
+    },
+    "promises": [
+      {
+        "title": "Photos réelles",
+        "text": "Chaque modèle est présenté avec ses propres photographies."
+      },
+      {
+        "title": "Commande confirmée avec vous",
+        "text": "Votre commande est vérifiée avec la boutique avant tout paiement."
+      },
+      {
+        "title": "Sélection conservée",
+        "text": "Votre panier reste enregistré sur votre appareil pendant votre navigation."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Qui est Jontado Beads ?",
+      "a": "Jontado Beads est une marque sénégalaise spécialisée dans la création artisanale de bijoux et d'accessoires. Inspirée par la beauté, la créativité et l'élégance, la marque propose des pièces uniques confectionnées avec soin pour permettre à chaque femme d'exprimer sa personnalité. Des traditionnelles perles de taille aux bracelets, colliers et accessoires personnalisés, chaque création est une invitation à célébrer son style et son authenticité. Chez Jontado Beads, nous croyons que chaque détail compte et que l'élégance n'a pas besoin de compromettre la pudeur."
+    },
+    {
+      "q": "Comment passer commande ?",
+      "a": "Ajoutez les modèles disponibles à votre panier, puis cliquez sur « Commander » : vous renseignez vos coordonnées, votre adresse de livraison et le moyen de paiement (Wave ou Orange Money). WhatsApp s’ouvre alors avec votre commande déjà rédigée : il ne reste qu’à l’envoyer."
+    },
+    {
+      "q": "Comment se passe le paiement ?",
+      "a": "Aucun paiement n’est effectué sur le site. Après réception de votre message, la boutique confirme la commande et vous transmet les instructions de paiement par Wave ou Orange Money."
+    },
+    {
+      "q": "Pourquoi certains modèles n’ont-ils pas encore de prix ?",
+      "a": "Le catalogue est en cours de mise en ligne. Les modèles marqués « Bientôt disponible » recevront leur nom et leur prix avant d’être proposés à la vente."
+    },
+    {
+      "q": "Mes informations sont-elles enregistrées ?",
+      "a": "Non. Vos coordonnées servent uniquement à rédiger le message WhatsApp que vous envoyez vous-même. Le site ne conserve sur votre appareil que le contenu de votre panier."
+    }
+  ]
+}

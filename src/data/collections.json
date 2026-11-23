@@ -1,0 +1,69 @@
+{
+  "_lisezmoi": "Collections. status : draft (en préparation), published (publiée), archived. Une collection en brouillon n'est visible que si settings.commerce.showDrafts vaut true, avec la mention « en préparation ».",
+  "collections": [
+    {
+      "id": "aguadi",
+      "slug": "aguadi",
+      "title": "Aguadi",
+      "titleConfirmed": false,
+      "status": "draft",
+      "intro": null,
+      "cover": "baya-039-1",
+      "products": [
+        "BAYA-037",
+        "BAYA-038",
+        "BAYA-039"
+      ],
+      "internalNote": "Nom relevé dans le nom de fichier de trois photos (« Nouvelle Collection Aguadi… bine bine individuel… »). À confirmer par la marque, ainsi que la présentation.",
+      "createdAt": "2026-11-22",
+      "updatedAt": "2026-11-22"
+    },
+    {
+      "id": "ensembles-feer",
+      "slug": "ensembles-feer",
+      "title": "Ensembles Féér",
+      "titleConfirmed": true,
+      "status": "published",
+      "intro": "Des ensembles de plusieurs rangs, composés pour être portés ensemble.",
+      "cover": "baya-050-1",
+      "products": [
+        "BAYA-005",
+        "BAYA-006",
+        "BAYA-008",
+        "BAYA-010",
+        "BAYA-029",
+        "BAYA-030",
+        "BAYA-032",
+        "BAYA-047",
+        "BAYA-048",
+        "BAYA-049",
+        "BAYA-050",
+        "BAYA-051",
+        "BAYA-052"
+      ],
+      "internalNote": "Regroupe les modèles nommés « Ensemble Féér » dans le PDF.",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "bine-bine",
+      "slug": "bine-bine",
+      "title": "Ensembles bine-bine",
+      "titleConfirmed": true,
+      "status": "published",
+      "intro": "Des ensembles de bine-bine assortis, à porter ensemble ou séparément.",
+      "cover": "baya-046-1",
+      "products": [
+        "BAYA-002",
+        "BAYA-003",
+        "BAYA-020",
+        "BAYA-043",
+        "BAYA-044",
+        "BAYA-046"
+      ],
+      "internalNote": "Regroupe les modèles nommés « Ensemble bine-bine » dans le PDF.",
+      "createdAt": "2026-11-23",
+      "updatedAt": "2026-11-23"
+    }
+  ]
+}
