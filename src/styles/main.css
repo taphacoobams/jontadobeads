@@ -159,6 +159,8 @@
 .universe__grid { display: grid; gap: var(--space-xl); align-items: center; }
 .universe__photo { overflow: hidden; border-radius: var(--radius-arch); aspect-ratio: 4 / 5; max-width: 520px; }
 .universe__photo img { width: 100%; height: 100%; object-fit: cover; }
+.universe__logo { display: grid; place-items: center; padding: var(--space-xl); border-radius: var(--radius-arch); background: var(--color-tint); aspect-ratio: 4 / 5; max-width: 520px; width: 100%; }
+.universe__logo img { width: 86%; height: auto; }
 .universe__text .lead { margin-top: var(--space-lg); }
 @media (min-width: 64rem) { .universe__grid { grid-template-columns: 5fr 6fr; gap: var(--space-3xl); } }
 

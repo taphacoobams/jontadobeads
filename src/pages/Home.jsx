@@ -54,13 +54,14 @@ function Hero() {
 }
 
 function Universe() {
-  const { content, catalogue } = useStore();
+  const { content, settings } = useStore();
   const u = content.home.universe;
   return (
     <section className="section universe" aria-labelledby="univers-titre">
       <div className="container universe__grid">
-        <Reveal className="universe__photo">
-          <Photo photo={catalogue.getPhoto(u.photo)} sizes="(min-width: 64rem) 40vw, 100vw" />
+        <Reveal className="universe__logo">
+          <img className="on-light-theme" src="/images/brand/logo-clair.png" width="632" height="506" alt={`Logo ${settings.shop.name}`} loading="lazy" decoding="async" />
+          <img className="on-dark-theme" src="/images/brand/logo-sombre.png" width="633" height="506" alt={`Logo ${settings.shop.name}`} loading="lazy" decoding="async" />
         </Reveal>
         <Reveal className="universe__text" delay={120}>
           <Eyebrow>{u.eyebrow}</Eyebrow>

@@ -2,7 +2,7 @@
 
 Boutique en ligne de **Jontado Beads** (« Ibadou biy diar féér ») : bayas (perles de taille), chaînes de corps, bijoux de cuisse et de cheville, senteurs. Construite sur les conventions du projet Senemaille (React 19, Webpack 5), avec son identité « Nacre & Cornaline », le logo officiel, un mode clair / sombre et une introduction animée à l'arrivée.
 
-> **État actuel :** 61 modèles, dont 46 en vente (noms et prix repris du PDF « Jontado Beads site »). 15 brouillons attendent nom et prix. Voir [docs/MISE_EN_PRODUCTION.md](docs/MISE_EN_PRODUCTION.md).
+> **État actuel :** 72 modèles, dont 57 en vente (noms et prix du PDF « Jontado Beads site », plus 11 nouveautés du 27/11/2026 dont le prix est à confirmer). 15 brouillons attendent nom et prix. Voir [docs/MISE_EN_PRODUCTION.md](docs/MISE_EN_PRODUCTION.md).
 
 ## Démarrage
 

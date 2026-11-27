@@ -41,3 +41,10 @@ Toutes les données se renseignent dans `src/data/` (voir README), puis `npm run
 - À vérifier : « Ensemble Féér » à 5 500 FCFA (prix bas pour un Féér) ; noms en double (trois « Candy kiss », deux « Blanc Éclat », deux « Perles de cheville ») ; droits des photos de 736 px de large (chaînes, bijoux de cuisse et de cheville, senteurs), qui semblent venir de Pinterest et portent parfois la marque d'un autre vendeur (pot Tiouraye).
 - Photos issues du PDF (BAYA-040 à 045, 051, 052, BIJOU-003) : ~770 px, à remplacer par les originaux si possible.
 - Le dossier source `perles` n'est plus à la racine : **ne pas lancer `npm run images`** sans l'avoir remis (le script régénère toutes les WebP à partir de ce dossier). Les nouvelles images ont été ajoutées directement dans `public/images/perles/` et `src/data/photos.json`.
+
+## Nouveautés du 27/11/2026
+
+- 11 modèles créés à partir des photos envoyées (BAYA-053 à 063) : **noms, descriptions et prix proposés, à confirmer par la boutique**.
+- BAYA-054 à 059 : photos de petite taille (350 à 420 px de large) : à remplacer par des originaux plus grands si possible.
+- Photos d'ambiance `ambiance-1` et `ambiance-2` (plage) : utilisées sur l'accueil, rattachées à aucun produit.
+- Plusieurs de ces photos semblent générées par IA (petit logo ✦ en bas à droite sur certaines) : vérifier qu'elles représentent fidèlement les modèles vendus.

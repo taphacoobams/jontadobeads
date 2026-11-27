@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23",
+  "generatedAt": "2026-11-27",
   "source": "Dossier « perles » (originaux non modifiés), dossier « nvx perles » et images extraites du PDF « Jontado Beads site »",
   "photos": [
     {
@@ -2054,6 +2054,338 @@
           "w": 960,
           "h": 1280,
           "src": "/images/perles/parf-002-2-960.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-053-1",
+      "file": "rubis-dore-1.png",
+      "width": 1024,
+      "height": 1536,
+      "status": "valide",
+      "product": "BAYA-053",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 720,
+          "src": "/images/perles/baya-053-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1440,
+          "src": "/images/perles/baya-053-1-960.webp"
+        },
+        {
+          "w": 1024,
+          "h": 1536,
+          "src": "/images/perles/baya-053-1-1024.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-054-1",
+      "file": "nuit-papillon-1.jpeg",
+      "width": 420,
+      "height": 635,
+      "status": "valide",
+      "product": "BAYA-054",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 420,
+          "h": 635,
+          "src": "/images/perles/baya-054-1-420.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-055-1",
+      "file": "fleur-de-rosee-1.jpeg",
+      "width": 351,
+      "height": 629,
+      "status": "valide",
+      "product": "BAYA-055",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 351,
+          "h": 629,
+          "src": "/images/perles/baya-055-1-351.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-056-1",
+      "file": "papillon-d-or-1.jpeg",
+      "width": 367,
+      "height": 639,
+      "status": "valide",
+      "product": "BAYA-056",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 367,
+          "h": 639,
+          "src": "/images/perles/baya-056-1-367.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-057-1",
+      "file": "corail-perle-1.jpeg",
+      "width": 388,
+      "height": 615,
+      "status": "valide",
+      "product": "BAYA-057",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 388,
+          "h": 615,
+          "src": "/images/perles/baya-057-1-388.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-058-1",
+      "file": "lilas-dore-1.jpeg",
+      "width": 409,
+      "height": 639,
+      "status": "valide",
+      "product": "BAYA-058",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 409,
+          "h": 639,
+          "src": "/images/perles/baya-058-1-409.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-059-1",
+      "file": "emeraude-1.jpeg",
+      "width": 366,
+      "height": 623,
+      "status": "valide",
+      "product": "BAYA-059",
+      "role": "principal",
+      "lowRes": true,
+      "variants": [
+        {
+          "w": 366,
+          "h": 623,
+          "src": "/images/perles/baya-059-1-366.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-060-1",
+      "file": "rose-poudre-1.jpeg",
+      "width": 847,
+      "height": 1168,
+      "status": "valide",
+      "product": "BAYA-060",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 662,
+          "src": "/images/perles/baya-060-1-480.webp"
+        },
+        {
+          "w": 847,
+          "h": 1168,
+          "src": "/images/perles/baya-060-1-847.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-060-2",
+      "file": "rose-poudre-2.jpeg",
+      "width": 704,
+      "height": 1371,
+      "status": "valide",
+      "product": "BAYA-060",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 935,
+          "src": "/images/perles/baya-060-2-480.webp"
+        },
+        {
+          "w": 704,
+          "h": 1371,
+          "src": "/images/perles/baya-060-2-704.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-061-1",
+      "file": "velours-rouge-1.png",
+      "width": 704,
+      "height": 1472,
+      "status": "valide",
+      "product": "BAYA-061",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 1004,
+          "src": "/images/perles/baya-061-1-480.webp"
+        },
+        {
+          "w": 704,
+          "h": 1472,
+          "src": "/images/perles/baya-061-1-704.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-062-1",
+      "file": "ambre-du-desert-1.jpeg",
+      "width": 859,
+      "height": 1104,
+      "status": "valide",
+      "product": "BAYA-062",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 617,
+          "src": "/images/perles/baya-062-1-480.webp"
+        },
+        {
+          "w": 859,
+          "h": 1104,
+          "src": "/images/perles/baya-062-1-859.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-063-1",
+      "file": "ensemble-feer-dune-1.jpeg",
+      "width": 1024,
+      "height": 1280,
+      "status": "valide",
+      "product": "BAYA-063",
+      "role": "principal",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 600,
+          "src": "/images/perles/baya-063-1-480.webp"
+        },
+        {
+          "w": 960,
+          "h": 1200,
+          "src": "/images/perles/baya-063-1-960.webp"
+        },
+        {
+          "w": 1024,
+          "h": 1280,
+          "src": "/images/perles/baya-063-1-1024.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-063-2",
+      "file": "ensemble-feer-dune-2.png",
+      "width": 864,
+      "height": 1184,
+      "status": "valide",
+      "product": "BAYA-063",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 658,
+          "src": "/images/perles/baya-063-2-480.webp"
+        },
+        {
+          "w": 864,
+          "h": 1184,
+          "src": "/images/perles/baya-063-2-864.webp"
+        }
+      ]
+    },
+    {
+      "id": "baya-063-3",
+      "file": "ensemble-feer-dune-3.jpeg",
+      "width": 688,
+      "height": 1184,
+      "status": "valide",
+      "product": "BAYA-063",
+      "role": "galerie",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 826,
+          "src": "/images/perles/baya-063-3-480.webp"
+        },
+        {
+          "w": 688,
+          "h": 1184,
+          "src": "/images/perles/baya-063-3-688.webp"
+        }
+      ]
+    },
+    {
+      "id": "ambiance-1",
+      "file": "ambiance-1.jpeg",
+      "width": 864,
+      "height": 1184,
+      "status": "valide",
+      "product": null,
+      "role": "ambiance",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 658,
+          "src": "/images/perles/ambiance-1-480.webp"
+        },
+        {
+          "w": 864,
+          "h": 1184,
+          "src": "/images/perles/ambiance-1-864.webp"
+        }
+      ]
+    },
+    {
+      "id": "ambiance-2",
+      "file": "ambiance-2.jpeg",
+      "width": 851,
+      "height": 1085,
+      "status": "valide",
+      "product": null,
+      "role": "ambiance",
+      "lowRes": false,
+      "variants": [
+        {
+          "w": 480,
+          "h": 612,
+          "src": "/images/perles/ambiance-2-480.webp"
+        },
+        {
+          "w": 851,
+          "h": 1085,
+          "src": "/images/perles/ambiance-2-851.webp"
         }
       ]
     }

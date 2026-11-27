@@ -50,7 +50,7 @@ test.describe('Pages et ressources', () => {
 test.describe('Brouillons : aucun produit inventé ni achetable', () => {
   test('les brouillons sont « Bientôt disponible », sans prix ; les modèles en vente passent devant', async ({ page }) => {
     await open(page, '/boutique');
-    await expect(page.getByTestId('result-count')).toHaveText('61 modèles');
+    await expect(page.getByTestId('result-count')).toHaveText('72 modèles');
     await expect(page.locator('.card').first()).toContainText(/FCFA/);
     await page.goto('/boutique?q=baya-031');
     const draft = page.locator('.card[data-ref="BAYA-031"]');
@@ -72,7 +72,7 @@ test.describe('Brouillons : aucun produit inventé ni achetable', () => {
     await page.evaluate(async () => { for (let y = 0; y < document.body.scrollHeight; y += 600) { window.scrollTo(0, y); await new Promise((r) => setTimeout(r, 30)); } });
     const srcs = await page.evaluate(() => [...document.querySelectorAll('main img')].map((i) => new URL(i.currentSrc || i.src).pathname));
     expect(srcs.length).toBeGreaterThan(5);
-    for (const s of srcs) expect(s).toMatch(/^\/images\/perles\/(baya|chaine|bijou|parf)-\d{3}-\d-\d+\.webp$/);
+    for (const s of srcs) expect(s).toMatch(/^\/images\/(perles\/((baya|chaine|bijou|parf)-\d{3}|ambiance)-\d-\d+\.webp|brand\/[a-z-]+\.png)$/);
   });
 });
 
@@ -83,14 +83,14 @@ test.describe('Recherche, filtres, pagination', () => {
     await expect(page.getByTestId('result-count')).toHaveText('1 modèle');
     await expect(page).toHaveURL(/q=baya-031/);
     await page.getByRole('button', { name: 'Effacer la recherche' }).click();
-    await expect(page.getByTestId('result-count')).toHaveText('61 modèles');
+    await expect(page.getByTestId('result-count')).toHaveText('72 modèles');
   });
 
   test('recherche sans résultat puis réinitialisation', async ({ page }) => {
     await open(page, '/boutique?q=zzzz');
     await expect(page.getByText('Aucun modèle ne correspond')).toBeVisible();
     await page.getByRole('button', { name: 'Effacer les filtres' }).click();
-    await expect(page.getByTestId('result-count')).toHaveText('61 modèles');
+    await expect(page.getByTestId('result-count')).toHaveText('72 modèles');
   });
 
   test('six styles de bayas, plus de perles ni d’accessoires ; filtres style et couleur', async ({ page }) => {

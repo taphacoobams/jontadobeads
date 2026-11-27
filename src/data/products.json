@@ -1860,6 +1860,346 @@
       "internalNote": "Nom et prix : PDF « Jontado Beads site ».",
       "createdAt": "2026-11-23",
       "updatedAt": "2026-11-23"
+    },
+    {
+      "id": "BAYA-053",
+      "reference": "BAYA-053",
+      "slug": "baya-053",
+      "status": "published",
+      "name": "Rubis doré",
+      "category": "rocailles",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Quatre rangs fins rouge rubis et dorés.",
+      "description": "Une baya délicate de quatre rangs fins, où les rocailles rouge rubis alternent avec de petites perles dorées.\n\nÀ porter seule pour un effet discret, ou avec d'autres rangs.",
+      "price": 5000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-053-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rouge",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nouveauté (photos du 27/11/2026). Nom, description et prix proposés : à confirmer par la boutique.",
+      "createdAt": "2026-11-27",
+      "updatedAt": "2026-11-27"
+    },
+    {
+      "id": "BAYA-054",
+      "reference": "BAYA-054",
+      "slug": "baya-054",
+      "status": "published",
+      "name": "Nuit papillon",
+      "category": "breloques",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs noirs, dorés et perlés, breloque papillon.",
+      "description": "Un ensemble de rangs noirs, dorés et perles blanches, rehaussé d'une petite breloque papillon dorée.",
+      "price": 5500,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-054-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Noir",
+        "Doré",
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nouveauté (photos du 27/11/2026). Nom, description et prix proposés : à confirmer par la boutique.",
+      "createdAt": "2026-11-27",
+      "updatedAt": "2026-11-27"
+    },
+    {
+      "id": "BAYA-055",
+      "reference": "BAYA-055",
+      "slug": "baya-055",
+      "status": "published",
+      "name": "Fleur de rosée",
+      "category": "breloques",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs rose et blanc, breloque fleur dorée.",
+      "description": "Des rangs rose tendre et blanc nacré, ponctués de perles dorées et d'une breloque fleur.",
+      "price": 5500,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-055-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rose",
+        "Blanc",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nouveauté (photos du 27/11/2026). Nom, description et prix proposés : à confirmer par la boutique.",
+      "createdAt": "2026-11-27",
+      "updatedAt": "2026-11-27"
+    },
+    {
+      "id": "BAYA-056",
+      "reference": "BAYA-056",
+      "slug": "baya-056",
+      "status": "published",
+      "name": "Papillon d'or",
+      "category": "breloques",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs dorés et perlés, breloques papillon.",
+      "description": "Cinq rangs dorés et perles blanches, ornés de breloques papillon : une baya lumineuse, tout en douceur.",
+      "price": 5500,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-056-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Doré",
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nouveauté (photos du 27/11/2026). Nom, description et prix proposés : à confirmer par la boutique.",
+      "createdAt": "2026-11-27",
+      "updatedAt": "2026-11-27"
+    },
+    {
+      "id": "BAYA-057",
+      "reference": "BAYA-057",
+      "slug": "baya-057",
+      "status": "published",
+      "name": "Corail perlé",
+      "category": "rocailles",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs rouge corail ponctués de perles blanches.",
+      "description": "Trois rangs rouge corail ponctués de perles blanches et de touches dorées, pour une baya chaleureuse.",
+      "price": 5000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-057-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rouge",
+        "Blanc",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nouveauté (photos du 27/11/2026). Nom, description et prix proposés : à confirmer par la boutique.",
+      "createdAt": "2026-11-27",
+      "updatedAt": "2026-11-27"
+    },
+    {
+      "id": "BAYA-058",
+      "reference": "BAYA-058",
+      "slug": "baya-058",
+      "status": "published",
+      "name": "Lilas doré",
+      "category": "rocailles",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs violets et dorés, perles fines.",
+      "description": "Des rangs violets et dorés en perles fines, qui s'accordent aussi bien avec le blanc qu'avec les tons prune.",
+      "price": 5000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-058-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Violet",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nouveauté (photos du 27/11/2026). Nom, description et prix proposés : à confirmer par la boutique.",
+      "createdAt": "2026-11-27",
+      "updatedAt": "2026-11-27"
+    },
+    {
+      "id": "BAYA-059",
+      "reference": "BAYA-059",
+      "slug": "baya-059",
+      "status": "published",
+      "name": "Émeraude",
+      "category": "breloques",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs vert émeraude et dorés, breloque papillon.",
+      "description": "Des rangs vert émeraude et dorés, avec une petite breloque papillon : un contraste profond et élégant.",
+      "price": 5500,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-059-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Vert",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nouveauté (photos du 27/11/2026). Nom, description et prix proposés : à confirmer par la boutique.",
+      "createdAt": "2026-11-27",
+      "updatedAt": "2026-11-27"
+    },
+    {
+      "id": "BAYA-060",
+      "reference": "BAYA-060",
+      "slug": "baya-060",
+      "status": "published",
+      "name": "Rose poudré",
+      "category": "rocailles",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs rose pâle et blancs, à porter superposés.",
+      "description": "Des rangs rose pâle et blancs, tout en douceur, qui se portent superposés ou croisés sur les hanches.",
+      "price": 5000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-060-1",
+        "baya-060-2"
+      ],
+      "variants": [],
+      "colors": [
+        "Rose",
+        "Blanc"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nouveauté (photos du 27/11/2026). Nom, description et prix proposés : à confirmer par la boutique.",
+      "createdAt": "2026-11-27",
+      "updatedAt": "2026-11-27"
+    },
+    {
+      "id": "BAYA-061",
+      "reference": "BAYA-061",
+      "slug": "baya-061",
+      "status": "published",
+      "name": "Velours rouge",
+      "category": "cristal",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs rouges et bordeaux, perles facettées et breloque.",
+      "description": "Des rangs rouges et bordeaux en perles facettées, avec une petite breloque dorée : la baya des grandes occasions.",
+      "price": 6000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-061-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Rouge",
+        "Bordeaux",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nouveauté (photos du 27/11/2026). Nom, description et prix proposés : à confirmer par la boutique.",
+      "createdAt": "2026-11-27",
+      "updatedAt": "2026-11-27"
+    },
+    {
+      "id": "BAYA-062",
+      "reference": "BAYA-062",
+      "slug": "baya-062",
+      "status": "published",
+      "name": "Ambre du désert",
+      "category": "cristal",
+      "categoryConfirmed": true,
+      "collections": [],
+      "shortDescription": "Rangs ambre et miel, grosses perles rondes.",
+      "description": "Des rangs couleur ambre et miel, mêlant grosses perles rondes et perles fines, pour une baya chaude et solaire.",
+      "price": 6000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-062-1"
+      ],
+      "variants": [],
+      "colors": [
+        "Ambre",
+        "Jaune",
+        "Doré"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nouveauté (photos du 27/11/2026). Nom, description et prix proposés : à confirmer par la boutique.",
+      "createdAt": "2026-11-27",
+      "updatedAt": "2026-11-27"
+    },
+    {
+      "id": "BAYA-063",
+      "reference": "BAYA-063",
+      "slug": "baya-063",
+      "status": "published",
+      "name": "Ensemble Féér Dune",
+      "category": "tubes",
+      "categoryConfirmed": true,
+      "collections": [
+        "ensembles-feer"
+      ],
+      "shortDescription": "Ensemble Féér blanc, argent et bordeaux, perles tubes et pampilles.",
+      "description": "L'ensemble Dune associe perles tubes blanches et argentées, perles bordeaux et pampilles qui tombent sur les hanches. Plusieurs rangs à superposer.",
+      "price": 12000,
+      "priceLabel": null,
+      "compareAtPrice": null,
+      "images": [
+        "baya-063-1",
+        "baya-063-2",
+        "baya-063-3"
+      ],
+      "variants": [],
+      "colors": [
+        "Blanc",
+        "Bordeaux"
+      ],
+      "sizes": [],
+      "availability": "in_stock",
+      "stock": null,
+      "featured": false,
+      "internalNote": "Nouveauté (photos du 27/11/2026). Nom, description et prix proposés : à confirmer par la boutique.",
+      "createdAt": "2026-11-27",
+      "updatedAt": "2026-11-27"
     }
   ]
 }
